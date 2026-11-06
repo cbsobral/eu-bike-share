@@ -1,0 +1,124 @@
+variable,label
+area_sqkm,Total City Area
+bicycle_parking_count,Bicycle Parking Density
+bicycle_rental_count,Bicycle Rental Stations Density
+bicycle_repair_station_count,Bicycle Repair Stations Density
+bike_lane_km,Bicycle Lane Density
+bike_track_km,Bicycle Track Density
+bus_stop_count,Bus Stops Density
+circuity_avg,Average Road Circuity
+coldest_month_tavg,Coldest Month Avg Temperature 
+compressed_air_count,Compressed Air Stations Density
+country_at,Austria
+country_be,Belgium
+country_bg,Bulgaria
+country_ch,Switzerland
+country_cy,Cyprus
+country_cz,Czech Republic
+country_de,Germany
+country_dk,Denmark
+country_ee,Estonia
+country_el,Greece
+country_es,Spain
+country_fi,Finland
+country_fr,France
+country_hr,Croatia
+country_hu,Hungary
+country_ie,Ireland
+country_is,Iceland
+country_it,Italy
+country_lt,Lithuania
+country_lu,Luxembourg
+country_lv,Latvia
+country_mt,Malta
+country_nl,Netherlands
+country_no,Norway
+country_pl,Poland
+country_pt,Portugal
+country_ro,Romania
+country_se,Sweden
+country_si,Slovenia
+country_sk,Slovakia
+country_uk,United Kingdom
+cyclestreet_km,Bicycle Street Density
+cyclist_waiting_aid_count,Cyclist Waiting Aids Density
+DE1001V,Total Population
+DE1002V,Share of Male Population
+DE1003V,Share of Female Population
+DE1025V,Share of Population 55-64
+DE1026V,Share of Male Population 55-64
+DE1028V,Share of Population 65-74
+DE1029V,Share of Male Population 65-74
+DE1040V,Share of Population 0-4
+DE1046V,Share of Population 15-19
+DE1051V,Share of Female Population 20-24
+DE1055V,Share of Population 75+
+DE1058I,Age Dependency Ratio
+DE1058V,Share of Population 25-34
+DE1059I,Young Age Dependency Ratio
+DE1060I,Old Age Dependency Ratio
+DE1061I,Annual Population Change Rate
+DE1061V,Share of Population 35-44
+DE1064V,Share of Population 45-54
+DE1073V,Median Population Age
+DE1074V,Share of Population 5-9
+DE1077V,Share of Population 10-14
+DE2002V,Share of EU Foreigners
+DE2003V,Share of Non-EU Foreign Population
+DE2012V,Share of Foreign Population
+DE3002V,Share of Single-Person Households
+DE3004I,Avg Household Size
+DE3005V,Share of Lone-Parent Households
+DE3008V,Share of Lone-Pensioner Households
+DE3011V,Share of Households with Children
+EC1001I,Activity Rate
+EC1002I,Male Activity Rate
+EC1011V,Male Unemployment Rate
+EC1012V,Female Unemployment Rate
+EC1020I,Unemployment Rate
+EC2008V,Share of Agricultural Employment
+EC2009V,Share of Industrial Employment
+EC2020V,Total Jobs
+EC2021V,Companies per Capita
+EC3039V,Median Household Income
+EC3040V,Annual Household Income
+EC3065V,Share of Persons At-Risk-of-Poverty
+elevation_avg,Average Elevation
+elevation_std,Elevation Variability
+green_space_sqkm,Green Space Share
+hottest_month_tavg,Hottest Month Avg Temperature
+intersection_density_sqkm,Intersection Density
+lanes_low_prop,Share of Small Roads
+maxspeed_slow_prop,Share of Slow-Speed Roads
+prcp_days_prop,Share of Rainy Days
+road_network_km,Road Network Density
+SA1011V,Share of Owner-Occupied Housing
+SA1012V,Share of Social Housing
+SA1013V,Share of Private Rental Housing
+SA1018V,Share of Dwellings Lacking Amenities
+SA1022V,Average Living Space per Capita
+SA1025V,Share of Vacant Dwellings
+SA1050V,Average House Price
+SA1051V,Average Apartment Price
+smooth_good_prop,Share of Smooth Roads
+snow_avg,Average Snowfall 
+stop_count,Stops Sign Density
+street_length_avg,Average Street Length
+subway_entrance_count,Subway Entrances Density
+surface_good_prop,Share of Well-Surfaced Roads
+TE1001V,Children 0-4 in Childcare per Capita
+TE1026V,Higher Education Enrollment Rate
+TE2025V,Low Education Attainment Rate
+TE2028V,Medium Education Attainment Rate
+TE2031V,High Education Attainment Rate
+traffic_calming_count,Traffic Calming Aids Density
+traffic_signals_count,Traffic Signals Density
+tram_stop_count,Tram Stops Density
+TT1019V,Average Commute Time
+TT1057V,Cars per Capita
+TT1064V,Share of Inbound Commuters
+TT1065V,Share of Outbound Commuters
+TT1080V,Monthly Transit Pass Cost
+TT1081V,Short-Distance Taxi Fare
+urban_space_sqkm,Urban Area Share
+wind_speed_avg,Average Wind Speed

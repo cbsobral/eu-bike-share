@@ -1,0 +1,865 @@
+eu_city_code,eu_city,eu_country_code,eu_country
+AT001C,Wien,AT,Austria
+AT002C,Graz,AT,Austria
+AT003C,Linz,AT,Austria
+AT004C,Salzburg,AT,Austria
+AT005C,Innsbruck,AT,Austria
+AT006C,Klagenfurt,AT,Austria
+BE001C,Bruxelles/Brussel,BE,Belgium
+BE002C,Antwerpen,BE,Belgium
+BE003C,Gent,BE,Belgium
+BE004C,Charleroi,BE,Belgium
+BE005C,Liège,BE,Belgium
+BE006C,Brugge,BE,Belgium
+BE007C,Namur,BE,Belgium
+BE008C,Leuven,BE,Belgium
+BE009C,Mons,BE,Belgium
+BE010C,Kortrijk,BE,Belgium
+BE011C,Oostende,BE,Belgium
+BE012C,Mechelen,BE,Belgium
+BE013C,Mouscron,BE,Belgium
+BE014C,La Louvière,BE,Belgium
+BE015C,Verviers,BE,Belgium
+BG001C,Sofia,BG,Bulgaria
+BG002C,Plovdiv,BG,Bulgaria
+BG003C,Varna,BG,Bulgaria
+BG004C,Burgas,BG,Bulgaria
+BG005C,Pleven,BG,Bulgaria
+BG006C,Ruse,BG,Bulgaria
+BG007C,Vidin,BG,Bulgaria
+BG008C,Stara Zagora,BG,Bulgaria
+BG009C,Sliven,BG,Bulgaria
+BG010C,Dobrich,BG,Bulgaria
+BG011C,Shumen,BG,Bulgaria
+BG012C,Pernik,BG,Bulgaria
+BG013C,Yambol,BG,Bulgaria
+BG014C,Haskovo,BG,Bulgaria
+BG015C,Pazardzhik,BG,Bulgaria
+BG016C,Blagoevgrad,BG,Bulgaria
+BG017C,Veliko Tarnovo,BG,Bulgaria
+BG018C,Vratsa,BG,Bulgaria
+CH001C,Bern,CH,Switzerland
+CH002C,Zürich,CH,Switzerland
+CH003C,Genève,CH,Switzerland
+CH004C,Basel,CH,Switzerland
+CH005C,Lausanne,CH,Switzerland
+CH006C,Luzern,CH,Switzerland
+CH007C,Winterthur,CH,Switzerland
+CH008C,Lugano,CH,Switzerland
+CH009C,St. Gallen,CH,Switzerland
+CH010C,Biel/Bienne,CH,Switzerland
+CH011C,Thun,CH,Switzerland
+CH012C,Zug,CH,Switzerland
+CY001C,Lefkosia,CY,Cyprus
+CY002C,Larnaka,CY,Cyprus
+CY003C,Lemesos,CY,Cyprus
+CZ001C,Praha,CZ,Czech Republic
+CZ002C,Brno,CZ,Czech Republic
+CZ003C,Ostrava,CZ,Czech Republic
+CZ004C,Plzeň,CZ,Czech Republic
+CZ005C,Ústí nad Labem,CZ,Czech Republic
+CZ006C,Olomouc,CZ,Czech Republic
+CZ007C,Liberec,CZ,Czech Republic
+CZ008C,České Budějovice,CZ,Czech Republic
+CZ009C,Hradec Králové,CZ,Czech Republic
+CZ010C,Pardubice,CZ,Czech Republic
+CZ011C,Zlín,CZ,Czech Republic
+CZ012C,Kladno,CZ,Czech Republic
+CZ013C,Karlovy Vary,CZ,Czech Republic
+CZ014C,Jihlava,CZ,Czech Republic
+CZ015C,Havířov,CZ,Czech Republic
+CZ016C,Most,CZ,Czech Republic
+CZ017C,Karviná,CZ,Czech Republic
+CZ018C,Chomutov-Jirkov,CZ,Czech Republic
+DE001C,Berlin,DE,Germany
+DE002C,Hamburg,DE,Germany
+DE003C,München,DE,Germany
+DE004C,Köln,DE,Germany
+DE005C,Frankfurt am Main,DE,Germany
+DE006C,Essen,DE,Germany
+DE007C,Stuttgart,DE,Germany
+DE008C,Leipzig,DE,Germany
+DE009C,Dresden,DE,Germany
+DE010C,Dortmund,DE,Germany
+DE011C,Düsseldorf,DE,Germany
+DE012C,Bremen,DE,Germany
+DE013C,Hannover,DE,Germany
+DE014C,Nürnberg,DE,Germany
+DE015C,Bochum,DE,Germany
+DE016C,Bielefeld,DE,Germany
+DE017C,Halle an der Saale,DE,Germany
+DE018C,Magdeburg,DE,Germany
+DE019C,Wiesbaden,DE,Germany
+DE020C,Göttingen,DE,Germany
+DE021C,Mülheim a.d.Ruhr,DE,Germany
+DE022C,Moers,DE,Germany
+DE023C,Darmstadt,DE,Germany
+DE024C,Trier,DE,Germany
+DE025C,Freiburg im Breisgau,DE,Germany
+DE026C,Regensburg,DE,Germany
+DE027C,Frankfurt (Oder),DE,Germany
+DE028C,Weimar,DE,Germany
+DE029C,Schwerin,DE,Germany
+DE030C,Erfurt,DE,Germany
+DE031C,Augsburg,DE,Germany
+DE032C,Bonn,DE,Germany
+DE033C,Karlsruhe,DE,Germany
+DE034C,Mönchengladbach,DE,Germany
+DE035C,Mainz,DE,Germany
+DE036C,Kiel,DE,Germany
+DE037C,Saarbrücken,DE,Germany
+DE038C,Potsdam,DE,Germany
+DE039C,Koblenz,DE,Germany
+DE040C,Rostock,DE,Germany
+DE041C,Kaiserslautern,DE,Germany
+DE042C,Iserlohn,DE,Germany
+DE043C,Esslingen am Neckar,DE,Germany
+DE044C,Hanau,DE,Germany
+DE045C,Wilhelmshaven,DE,Germany
+DE046C,Ludwigsburg,DE,Germany
+DE047C,Tübingen,DE,Germany
+DE048C,Villingen-Schwenningen,DE,Germany
+DE049C,Flensburg,DE,Germany
+DE050C,Marburg,DE,Germany
+DE051C,Konstanz,DE,Germany
+DE052C,Neumünster,DE,Germany
+DE053C,Brandenburg an der Havel,DE,Germany
+DE054C,Gießen,DE,Germany
+DE055C,Lüneburg,DE,Germany
+DE056C,Bayreuth,DE,Germany
+DE057C,Celle,DE,Germany
+DE058C,Aschaffenburg,DE,Germany
+DE059C,Bamberg,DE,Germany
+DE060C,Plauen,DE,Germany
+DE061C,Neubrandenburg,DE,Germany
+DE062C,Fulda,DE,Germany
+DE063C,Kempten (Allgäu),DE,Germany
+DE064C,Landshut,DE,Germany
+DE065C,Sindelfingen,DE,Germany
+DE066C,Rosenheim,DE,Germany
+DE067C,Frankenthal (Pfalz),DE,Germany
+DE068C,Stralsund,DE,Germany
+DE069C,Friedrichshafen,DE,Germany
+DE070C,Offenburg,DE,Germany
+DE071C,Görlitz,DE,Germany
+DE072C,Sankt Augustin,DE,Germany
+DE073C,Neu-Ulm,DE,Germany
+DE074C,Schweinfurt,DE,Germany
+DE075C,Greifswald,DE,Germany
+DE076C,Wetzlar,DE,Germany
+DE077C,Speyer,DE,Germany
+DE078C,Passau,DE,Germany
+DE079C,Dessau-Roßlau,DE,Germany
+DE080C,Duisburg,DE,Germany
+DE081C,Mannheim,DE,Germany
+DE082C,Gelsenkirchen,DE,Germany
+DE083C,Münster,DE,Germany
+DE084C,Chemnitz,DE,Germany
+DE085C,Braunschweig,DE,Germany
+DE086C,Aachen,DE,Germany
+DE087C,Krefeld,DE,Germany
+DE088C,Oberhausen,DE,Germany
+DE089C,Lübeck,DE,Germany
+DE090C,Hagen,DE,Germany
+DE091C,Kassel,DE,Germany
+DE092C,Hamm,DE,Germany
+DE093C,Herne,DE,Germany
+DE094C,Solingen,DE,Germany
+DE095C,Osnabrück,DE,Germany
+DE096C,Ludwigshafen am Rhein,DE,Germany
+DE097C,Leverkusen,DE,Germany
+DE098C,Oldenburg (Oldenburg),DE,Germany
+DE099C,Neuss,DE,Germany
+DE100C,Heidelberg,DE,Germany
+DE101C,Paderborn,DE,Germany
+DE102C,Würzburg,DE,Germany
+DE103C,Recklinghausen,DE,Germany
+DE104C,Wolfsburg,DE,Germany
+DE105C,Bremerhaven,DE,Germany
+DE106C,Bottrop,DE,Germany
+DE107C,Heilbronn,DE,Germany
+DE108C,Remscheid,DE,Germany
+DE109C,Offenbach am Main,DE,Germany
+DE110C,Ulm,DE,Germany
+DE111C,Pforzheim,DE,Germany
+DE112C,Ingolstadt,DE,Germany
+DE113C,Gera,DE,Germany
+DE114C,Salzgitter,DE,Germany
+DE115C,Reutlingen,DE,Germany
+DE116C,Fürth,DE,Germany
+DE117C,Cottbus,DE,Germany
+DE118C,Siegen,DE,Germany
+DE119C,Bergisch Gladbach,DE,Germany
+DE120C,Hildesheim,DE,Germany
+DE121C,Witten,DE,Germany
+DE122C,Zwickau,DE,Germany
+DE123C,Erlangen,DE,Germany
+DE124C,Wuppertal,DE,Germany
+DE125C,Jena,DE,Germany
+DE126C,"Düren, Stadt",DE,Germany
+DE127C,"Bocholt, Stadt",DE,Germany
+DK001C,København,DK,Denmark
+DK002C,Århus,DK,Denmark
+DK003C,Odense,DK,Denmark
+DK004C,Aalborg,DK,Denmark
+EE001C,Tallinn,EE,Estonia
+EE002C,Tartu,EE,Estonia
+EE003C,Narva,EE,Estonia
+EL001C,Athina,EL,Greece
+EL002C,Thessaloniki,EL,Greece
+EL003C,Pátra,EL,Greece
+EL004C,Irakleio,EL,Greece
+EL005C,Larisa,EL,Greece
+EL006C,Volos,EL,Greece
+EL007C,Ioannina,EL,Greece
+EL008C,Kavala,EL,Greece
+EL009C,Kalamata,EL,Greece
+EL010C,Trikala,EL,Greece
+EL011C,Serres,EL,Greece
+EL012C,Katerini,EL,Greece
+EL013C,Xanthi,EL,Greece
+EL014C,Chania,EL,Greece
+ES001C,Madrid,ES,Spain
+ES002C,Barcelona,ES,Spain
+ES003C,Valencia,ES,Spain
+ES004C,Sevilla,ES,Spain
+ES005C,Zaragoza,ES,Spain
+ES006C,Málaga,ES,Spain
+ES007C,Murcia,ES,Spain
+ES008C,Las Palmas,ES,Spain
+ES009C,Valladolid,ES,Spain
+ES010C,Palma de Mallorca,ES,Spain
+ES011C,Santiago de Compostela,ES,Spain
+ES012C,Vitoria/Gasteiz,ES,Spain
+ES013C,Oviedo,ES,Spain
+ES014C,Pamplona/Iruña,ES,Spain
+ES015C,Santander,ES,Spain
+ES016C,Toledo,ES,Spain
+ES017C,Badajoz,ES,Spain
+ES018C,Logroño,ES,Spain
+ES019C,Bilbao,ES,Spain
+ES020C,Córdoba,ES,Spain
+ES021C,Alicante/Alacant,ES,Spain
+ES022C,Vigo,ES,Spain
+ES023C,Gijón,ES,Spain
+ES024C,Santa Cruz de Tenerife,ES,Spain
+ES025C,A Coruña,ES,Spain
+ES026C,Reus,ES,Spain
+ES027C,Telde,ES,Spain
+ES028C,Lugo,ES,Spain
+ES029C,San Fernando,ES,Spain
+ES030C,Girona,ES,Spain
+ES031C,Cáceres,ES,Spain
+ES032C,Torrevieja,ES,Spain
+ES033C,"Puerto de Santa María, El",ES,Spain
+ES034C,Avilés,ES,Spain
+ES035C,Talavera de la Reina,ES,Spain
+ES036C,Palencia,ES,Spain
+ES037C,Ferrol,ES,Spain
+ES038C,Pontevedra,ES,Spain
+ES039C,Ceuta,ES,Spain
+ES040C,Gandia,ES,Spain
+ES041C,Guadalajara,ES,Spain
+ES042C,Manresa,ES,Spain
+ES043C,Ciudad Real,ES,Spain
+ES044C,Benidorm,ES,Spain
+ES045C,Melilla,ES,Spain
+ES046C,Ponferrada,ES,Spain
+ES047C,Zamora,ES,Spain
+ES048C,Fuengirola,ES,Spain
+ES049C,Sanlúcar de Barrameda,ES,Spain
+ES050C,Vilanova i la Geltrú,ES,Spain
+ES051C,"Línea de la Concepción, La",ES,Spain
+ES052C,Torremolinos,ES,Spain
+ES053C,Irun,ES,Spain
+ES054C,Granollers,ES,Spain
+ES055C,Arrecife,ES,Spain
+ES056C,Elda,ES,Spain
+ES057C,Santa Lucía de Tirajana,ES,Spain
+ES058C,Mollet del Vallès,ES,Spain
+ES059C,Granada,ES,Spain
+ES060C,Elche/Elx,ES,Spain
+ES061C,Cartagena,ES,Spain
+ES062C,Jerez de la Frontera,ES,Spain
+ES063C,San Sebastián/Donostia,ES,Spain
+ES064C,Alcalá de Henares,ES,Spain
+ES065C,Almería,ES,Spain
+ES066C,Burgos,ES,Spain
+ES067C,Salamanca,ES,Spain
+ES068C,Albacete,ES,Spain
+ES069C,Castellón de la Plana/Castelló de la Plana,ES,Spain
+ES070C,Huelva,ES,Spain
+ES071C,Cádiz,ES,Spain
+ES072C,León,ES,Spain
+ES073C,Tarragona,ES,Spain
+ES074C,Jaén,ES,Spain
+ES075C,Lleida,ES,Spain
+ES076C,Ourense,ES,Spain
+ES077C,Mataró,ES,Spain
+ES078C,Dos Hermanas,ES,Spain
+ES079C,Algeciras,ES,Spain
+ES080C,Marbella,ES,Spain
+ES081C,Torrejón de Ardoz,ES,Spain
+ES082C,Alcalá de Guadaíra,ES,Spain
+ES083C,Alcoy,ES,Spain
+ES084C,Ávila,ES,Spain
+ES085C,Benalmádena,ES,Spain
+ES086C,Chiclana de la Frontera,ES,Spain
+ES087C,Collado Villalba,ES,Spain
+ES088C,Cuenca,ES,Spain
+ES089C,Eivissa,ES,Spain
+ES090C,Linares,ES,Spain
+ES091C,Lorca,ES,Spain
+ES092C,Mérida,ES,Spain
+ES093C,Sagunto,ES,Spain
+ES094C,Torrelavega,ES,Spain
+ES095C,Valdemoro,ES,Spain
+ES096C,Puerto de la Cruz,ES,Spain
+ES097C,Igualada,ES,Spain
+ES098C,San Vicente del Raspeig/Sant Vicent del Raspeig,ES,Spain
+FI001C,Helsinki/Helsingfors,FI,Finland
+FI002C,Tampere/Tammerfors,FI,Finland
+FI003C,Turku/Åbo,FI,Finland
+FI004C,Oulu/Uleåborg,FI,Finland
+FI005C,Espoo/Esbo,FI,Finland
+FI006C,Vantaa/Vanda,FI,Finland
+FI007C,Lahti/Lahtis,FI,Finland
+FI008C,Kuopio,FI,Finland
+FI009C,Jyväskylä,FI,Finland
+FR001C,Paris,FR,France
+FR002C,Lyon,FR,France
+FR003C,Lille,FR,France
+FR004C,Marseille,FR,France
+FR005C,Bordeaux,FR,France
+FR006C,Toulouse,FR,France
+FR007C,Nantes,FR,France
+FR008C,Nice,FR,France
+FR009C,Strasbourg,FR,France
+FR010C,Rouen,FR,France
+FR011C,Montpellier,FR,France
+FR012C,Grenoble,FR,France
+FR013C,Tours,FR,France
+FR014C,Cannes-Antibes,FR,France
+FR015C,Toulon,FR,France
+FR016C,Rennes,FR,France
+FR017C,Reims,FR,France
+FR018C,Orléans,FR,France
+FR019C,Nancy,FR,France
+FR020C,Dijon,FR,France
+FR021C,Clermont-Ferrand,FR,France
+FR022C,Le Havre,FR,France
+FR023C,Saint-Étienne,FR,France
+FR024C,Angers,FR,France
+FR025C,Mulhouse,FR,France
+FR026C,Lens,FR,France
+FR027C,Metz,FR,France
+FR028C,Nîmes,FR,France
+FR029C,Le Mans,FR,France
+FR030C,Saint-Denis,FR,France
+FR031C,Caen,FR,France
+FR032C,Limoges,FR,France
+FR033C,Aix-en-Provence,FR,France
+FR034C,Brest,FR,France
+FR035C,Amiens,FR,France
+FR036C,Dunkerque,FR,France
+FR037C,Perpignan,FR,France
+FR038C,Annecy,FR,France
+FR039C,Besançon,FR,France
+FR040C,Bayonne,FR,France
+FR041C,La Seyne-sur-Mer,FR,France
+FR042C,Pau,FR,France
+FR043C,Avignon,FR,France
+FR044C,Troyes,FR,France
+FR045C,Valenciennes,FR,France
+FR046C,Fort-de-France,FR,France
+FR047C,Poitiers,FR,France
+FR048C,Valence,FR,France
+FR049C,Fréjus,FR,France
+FR050C,Chambéry,FR,France
+FR051C,Mantes-la-Jolie,FR,France
+FR052C,Douai,FR,France
+FR053C,Melun,FR,France
+FR054C,La Rochelle,FR,France
+FR055C,Lorient,FR,France
+FR056C,Cherbourg-en-Cotentin,FR,France
+FR057C,Béziers,FR,France
+FR058C,Chartres,FR,France
+FR059C,Creil,FR,France
+FR060C,Boulogne-sur-Mer,FR,France
+FR061C,Calais,FR,France
+FR062C,Mamoudzou,FR,France
+FR063C,Montbéliard,FR,France
+FR064C,Arras,FR,France
+FR065C,Colmar,FR,France
+FR066C,Martigues,FR,France
+FR067C,Meaux,FR,France
+FR068C,Bourges,FR,France
+FR069C,Saint-Brieuc,FR,France
+FR070C,Quimper,FR,France
+FR071C,Belfort,FR,France
+FR072C,Cayenne,FR,France
+FR073C,Hayange,FR,France
+FR074C,Saint-Louis,FR,France
+FR075C,Vannes,FR,France
+FR076C,Annemasse-Geneva (French part),FR,France
+FR077C,Saint-Louis-Bâle (French part),FR,France
+HR001C,Zagreb,HR,Croatia
+HR002C,Rijeka,HR,Croatia
+HR003C,Slavonski Brod,HR,Croatia
+HR004C,Osijek,HR,Croatia
+HR005C,Split,HR,Croatia
+HR006C,Pula/Pola,HR,Croatia
+HR007C,Zadar,HR,Croatia
+HU001C,Budapest,HU,Hungary
+HU002C,Miskolc,HU,Hungary
+HU003C,Nyíregyháza,HU,Hungary
+HU004C,Pécs,HU,Hungary
+HU005C,Debrecen,HU,Hungary
+HU006C,Szeged,HU,Hungary
+HU007C,Gyõr,HU,Hungary
+HU008C,Kecskemét,HU,Hungary
+HU009C,Székesfehérvár,HU,Hungary
+HU010C,Szombathely,HU,Hungary
+HU011C,Szolnok,HU,Hungary
+HU012C,Tatabánya,HU,Hungary
+HU013C,Veszprém,HU,Hungary
+HU014C,Békéscsaba,HU,Hungary
+HU015C,Kaposvár,HU,Hungary
+HU016C,Eger,HU,Hungary
+HU017C,Dunaújváros,HU,Hungary
+HU018C,Zalaegerszeg,HU,Hungary
+HU019C,Sopron,HU,Hungary
+IE001C,Dublin,IE,Ireland
+IE002C,Cork,IE,Ireland
+IE003C,Limerick,IE,Ireland
+IE004C,Galway,IE,Ireland
+IE005C,Waterford,IE,Ireland
+IS001C,Reykjavík,IS,Iceland
+IT001C,Roma,IT,Italy
+IT002C,Milano,IT,Italy
+IT003C,Napoli,IT,Italy
+IT004C,Torino,IT,Italy
+IT005C,Palermo,IT,Italy
+IT006C,Genova,IT,Italy
+IT007C,Firenze,IT,Italy
+IT008C,Bari,IT,Italy
+IT009C,Bologna,IT,Italy
+IT010C,Catania,IT,Italy
+IT011C,Venezia,IT,Italy
+IT012C,Verona,IT,Italy
+IT013C,Cremona,IT,Italy
+IT014C,Trento,IT,Italy
+IT015C,Trieste,IT,Italy
+IT016C,Perugia,IT,Italy
+IT017C,Ancona,IT,Italy
+IT018C,Pescara,IT,Italy
+IT019C,Campobasso,IT,Italy
+IT020C,Caserta,IT,Italy
+IT021C,Taranto,IT,Italy
+IT022C,Potenza,IT,Italy
+IT023C,Catanzaro,IT,Italy
+IT024C,Reggio di Calabria,IT,Italy
+IT025C,Sassari,IT,Italy
+IT026C,Cagliari,IT,Italy
+IT027C,Padova,IT,Italy
+IT028C,Brescia,IT,Italy
+IT029C,Modena,IT,Italy
+IT030C,Foggia,IT,Italy
+IT031C,Salerno,IT,Italy
+IT032C,Piacenza,IT,Italy
+IT033C,Bolzano,IT,Italy
+IT034C,Udine,IT,Italy
+IT035C,La Spezia,IT,Italy
+IT036C,Lecce,IT,Italy
+IT037C,Barletta,IT,Italy
+IT038C,Pesaro,IT,Italy
+IT039C,Como,IT,Italy
+IT040C,Pisa,IT,Italy
+IT041C,Treviso,IT,Italy
+IT042C,Varese,IT,Italy
+IT043C,Asti,IT,Italy
+IT044C,Pavia,IT,Italy
+IT045C,Massa,IT,Italy
+IT046C,Cosenza,IT,Italy
+IT047C,Savona,IT,Italy
+IT048C,Matera,IT,Italy
+IT049C,Acireale,IT,Italy
+IT050C,Avellino,IT,Italy
+IT051C,Pordenone,IT,Italy
+IT052C,Lecco,IT,Italy
+IT053C,Altamura,IT,Italy
+IT054C,Bitonto,IT,Italy
+IT055C,Molfetta,IT,Italy
+IT056C,Battipaglia,IT,Italy
+IT057C,Bisceglie,IT,Italy
+IT058C,Carpi,IT,Italy
+IT059C,Cerignola,IT,Italy
+IT060C,Gela,IT,Italy
+IT061C,Bagheria,IT,Italy
+IT062C,Anzio,IT,Italy
+IT063C,Sassuolo,IT,Italy
+IT064C,Messina,IT,Italy
+IT065C,Prato,IT,Italy
+IT066C,Parma,IT,Italy
+IT067C,Livorno,IT,Italy
+IT068C,Reggio nell'Emilia,IT,Italy
+IT069C,Ravenna,IT,Italy
+IT070C,Ferrara,IT,Italy
+IT071C,Rimini,IT,Italy
+IT072C,Siracusa,IT,Italy
+IT073C,Bergamo,IT,Italy
+IT074C,Forlì,IT,Italy
+IT075C,Latina,IT,Italy
+IT076C,Vicenza,IT,Italy
+IT077C,Terni,IT,Italy
+IT078C,Novara,IT,Italy
+IT079C,Alessandria,IT,Italy
+IT080C,Arezzo,IT,Italy
+IT081C,Grosseto,IT,Italy
+IT082C,Brindisi,IT,Italy
+IT083C,Trapani,IT,Italy
+IT084C,Ragusa,IT,Italy
+IT085C,Andria,IT,Italy
+IT086C,Trani,IT,Italy
+IT087C,L'Aquila,IT,Italy
+LT001C,Vilnius,LT,Lithuania
+LT002C,Kaunas,LT,Lithuania
+LT003C,Panevėžys,LT,Lithuania
+LT004C,Alytus,LT,Lithuania
+LT005C,Klaipėda,LT,Lithuania
+LT006C,Šiauliai,LT,Lithuania
+LU001C,Luxembourg,LU,Luxembourg
+LV001C,Rīga,LV,Latvia
+LV002C,Liepāja,LV,Latvia
+LV003C,Jelgava,LV,Latvia
+LV004C,Daugavpils,LV,Latvia
+MT001C,Greater Valletta,MT,Malta
+NL001C,Amsterdam,NL,Netherlands
+NL002C,Alkmaar ,NL,Netherlands
+NL003C,Almelo,NL,Netherlands
+NL004C,Almere,NL,Netherlands
+NL005C,Alphen aan den Rijn,NL,Netherlands
+NL006C,Amersfoort,NL,Netherlands
+NL007C,Apeldoorn,NL,Netherlands
+NL008C,Arnhem ,NL,Netherlands
+NL009C,Assen,NL,Netherlands
+NL010C,Bergen op Zoom,NL,Netherlands
+NL011C,Breda,NL,Netherlands
+NL012C,Deventer,NL,Netherlands
+NL013C,Ede ,NL,Netherlands
+NL014C,Eindhoven ,NL,Netherlands
+NL015C,Enschede,NL,Netherlands
+NL016C,Gouda,NL,Netherlands
+NL017C,'s-Gravenhage ,NL,Netherlands
+NL018C,Groningen,NL,Netherlands
+NL019C,Haarlem ,NL,Netherlands
+NL020C,Haarlemmermeer,NL,Netherlands
+NL021C,Heemskerk ,NL,Netherlands
+NL022C,Heerlen ,NL,Netherlands
+NL023C,Helmond,NL,Netherlands
+NL024C,Hengelo,NL,Netherlands
+NL025C,'s-Hertogenbosch,NL,Netherlands
+NL026C,Hilversum,NL,Netherlands
+NL027C,Hoorn,NL,Netherlands
+NL028C,Leeuwarden,NL,Netherlands
+NL029C,Leiden ,NL,Netherlands
+NL030C,Lelystad,NL,Netherlands
+NL031C,Maastricht,NL,Netherlands
+NL032C,Middelburg       ,NL,Netherlands
+NL033C,Nijmegen,NL,Netherlands
+NL034C,Nissewaard ,NL,Netherlands
+NL035C,Oss,NL,Netherlands
+NL036C,Purmerend,NL,Netherlands
+NL037C,Rotterdam ,NL,Netherlands
+NL038C,Roosendaal,NL,Netherlands
+NL039C,Sittard-Geleen ,NL,Netherlands
+NL040C,Soest ,NL,Netherlands
+NL041C,Tilburg,NL,Netherlands
+NL042C,Utrecht ,NL,Netherlands
+NL043C,Veenendaal,NL,Netherlands
+NL044C,Venlo,NL,Netherlands
+NL045C,Zaanstad,NL,Netherlands
+NL046C,Zoetermeer,NL,Netherlands
+NL047C,Zwolle,NL,Netherlands
+NO001C,Oslo,NO,Norway
+NO002C,Bergen,NO,Norway
+NO003C,Trondheim,NO,Norway
+NO004C,Stavanger,NO,Norway
+PL001C,Warszawa,PL,Poland
+PL002C,Łódź,PL,Poland
+PL003C,Kraków,PL,Poland
+PL004C,Wrocław,PL,Poland
+PL005C,Poznań,PL,Poland
+PL006C,Gdańsk,PL,Poland
+PL007C,Szczecin,PL,Poland
+PL008C,Bydgoszcz,PL,Poland
+PL009C,Lublin,PL,Poland
+PL010C,Katowice,PL,Poland
+PL011C,Białystok,PL,Poland
+PL012C,Kielce,PL,Poland
+PL013C,Toruń,PL,Poland
+PL014C,Olsztyn,PL,Poland
+PL015C,Rzeszów,PL,Poland
+PL016C,Opole,PL,Poland
+PL017C,Gorzów Wielkopolski,PL,Poland
+PL018C,Zielona Góra,PL,Poland
+PL019C,Jelenia Góra,PL,Poland
+PL020C,Nowy Sącz,PL,Poland
+PL021C,Suwałki,PL,Poland
+PL022C,Konin,PL,Poland
+PL023C,Żory,PL,Poland
+PL024C,Częstochowa,PL,Poland
+PL025C,Radom,PL,Poland
+PL026C,Płock,PL,Poland
+PL027C,Kalisz,PL,Poland
+PL028C,Koszalin,PL,Poland
+PL029C,Słupsk,PL,Poland
+PL030C,Jastrzębie-Zdrój,PL,Poland
+PL031C,Siedlce,PL,Poland
+PL032C,Piotrków Trybunalski,PL,Poland
+PL033C,Lubin,PL,Poland
+PL034C,Piła,PL,Poland
+PL035C,Inowrocław,PL,Poland
+PL036C,Ostrowiec Świętokrzyski,PL,Poland
+PL037C,Gniezno,PL,Poland
+PL038C,Stargard,PL,Poland
+PL039C,Ostrów Wielkopolski,PL,Poland
+PL040C,Przemyśl,PL,Poland
+PL041C,Zamość,PL,Poland
+PL042C,Chełm,PL,Poland
+PL043C,Pabianice,PL,Poland
+PL044C,Głogów,PL,Poland
+PL045C,Stalowa Wola,PL,Poland
+PL046C,Tomaszów Mazowiecki,PL,Poland
+PL047C,Łomża,PL,Poland
+PL048C,Leszno,PL,Poland
+PL049C,Świdnica,PL,Poland
+PL050C,Zgierz,PL,Poland
+PL051C,Tczew,PL,Poland
+PL052C,Ełk,PL,Poland
+PL053C,Gdynia,PL,Poland
+PL054C,Sosnowiec,PL,Poland
+PL055C,Gliwice,PL,Poland
+PL056C,Zabrze,PL,Poland
+PL057C,Bytom,PL,Poland
+PL058C,Bielsko-Biała,PL,Poland
+PL059C,Ruda Śląska,PL,Poland
+PL060C,Rybnik,PL,Poland
+PL061C,Tychy,PL,Poland
+PL062C,Wałbrzych,PL,Poland
+PL063C,Elbląg,PL,Poland
+PL064C,Włocławek,PL,Poland
+PL065C,Tarnów,PL,Poland
+PL066C,Chorzów,PL,Poland
+PL067C,Legnica,PL,Poland
+PL068C,Grudziądz,PL,Poland
+PT001C,Lisboa,PT,Portugal
+PT002C,Porto,PT,Portugal
+PT003C,Braga,PT,Portugal
+PT004C,Funchal,PT,Portugal
+PT005C,Coimbra,PT,Portugal
+PT006C,Setúbal,PT,Portugal
+PT007C,Ponta Delgada,PT,Portugal
+PT008C,Aveiro,PT,Portugal
+PT009C,Faro,PT,Portugal
+PT010C,Viseu,PT,Portugal
+PT011C,Viana do Castelo,PT,Portugal
+PT012C,Paredes,PT,Portugal
+PT013C,Póvoa de Varzim,PT,Portugal
+PT014C,Sintra,PT,Portugal
+PT015C,Guimarães,PT,Portugal
+PT016C,Vila Franca de Xira,PT,Portugal
+RO001C,Bucureşti,RO,Romania
+RO002C,Cluj-Napoca,RO,Romania
+RO003C,Timişoara,RO,Romania
+RO004C,Craiova,RO,Romania
+RO005C,Brăila,RO,Romania
+RO006C,Oradea,RO,Romania
+RO007C,Bacău,RO,Romania
+RO008C,Arad,RO,Romania
+RO009C,Sibiu,RO,Romania
+RO010C,Târgu Mureş,RO,Romania
+RO011C,Piatra Neamţ,RO,Romania
+RO012C,Cǎlǎraşi,RO,Romania
+RO013C,Giurgiu,RO,Romania
+RO014C,Alba Iulia,RO,Romania
+RO015C,Focşani,RO,Romania
+RO016C,Târgu Jiu,RO,Romania
+RO017C,Tulcea,RO,Romania
+RO018C,Târgovişte,RO,Romania
+RO019C,Slatina,RO,Romania
+RO020C,Bârlad,RO,Romania
+RO021C,Roman,RO,Romania
+RO022C,Bistriţa,RO,Romania
+RO023C,Constanţa,RO,Romania
+RO024C,Iaşi,RO,Romania
+RO025C,Galaţi,RO,Romania
+RO026C,Braşov,RO,Romania
+RO027C,Ploieşti,RO,Romania
+RO028C,Piteşti,RO,Romania
+RO029C,Baia Mare,RO,Romania
+RO030C,Buzău,RO,Romania
+RO031C,Satu Mare,RO,Romania
+RO032C,Botoşani,RO,Romania
+RO033C,Râmnicu Vâlcea,RO,Romania
+RO034C,Suceava,RO,Romania
+RO035C,Drobeta-Turnu Severin,RO,Romania
+SE001C,Stockholm,SE,Sweden
+SE002C,Göteborg,SE,Sweden
+SE003C,Malmö,SE,Sweden
+SE004C,Jönköping,SE,Sweden
+SE005C,Umeå,SE,Sweden
+SE006C,Uppsala,SE,Sweden
+SE007C,Linköping,SE,Sweden
+SE008C,Örebro,SE,Sweden
+SE009C,Södertälje,SE,Sweden
+SE010C,Västerås,SE,Sweden
+SE011C,Norrköping,SE,Sweden
+SE012C,Helsingborg,SE,Sweden
+SE013C,Lund,SE,Sweden
+SE014C,Borås,SE,Sweden
+SI001C,Ljubljana,SI,Slovenia
+SI002C,Maribor,SI,Slovenia
+SK001C,Bratislava,SK,Slovakia
+SK002C,Košice,SK,Slovakia
+SK003C,Banská Bystrica,SK,Slovakia
+SK004C,Nitra,SK,Slovakia
+SK005C,Prešov,SK,Slovakia
+SK006C,Žilina,SK,Slovakia
+SK007C,Trnava,SK,Slovakia
+SK008C,Trenčín,SK,Slovakia
+UK001C,London,UK,United Kingdom
+UK002C,Birmingham,UK,United Kingdom
+UK003C,Leeds,UK,United Kingdom
+UK004C,Glasgow,UK,United Kingdom
+UK005C,Bradford,UK,United Kingdom
+UK006C,Liverpool,UK,United Kingdom
+UK007C,Edinburgh,UK,United Kingdom
+UK008C,Manchester,UK,United Kingdom
+UK009C,Cardiff,UK,United Kingdom
+UK010C,Sheffield,UK,United Kingdom
+UK011C,Bristol,UK,United Kingdom
+UK012C,Belfast,UK,United Kingdom
+UK013C,Newcastle upon Tyne,UK,United Kingdom
+UK014C,Leicester,UK,United Kingdom
+UK015C,Aberdeen,UK,United Kingdom
+UK016C,Cambridge,UK,United Kingdom
+UK017C,Exeter,UK,United Kingdom
+UK018C,Lincoln,UK,United Kingdom
+UK019C,Gravesham,UK,United Kingdom
+UK020C,Stevenage,UK,United Kingdom
+UK021C,Wrexham,UK,United Kingdom
+UK022C,Portsmouth,UK,United Kingdom
+UK023C,Worcester,UK,United Kingdom
+UK024C,Coventry,UK,United Kingdom
+UK025C,Kingston-upon-Hull,UK,United Kingdom
+UK026C,Stoke-on-Trent,UK,United Kingdom
+UK027C,Wolverhampton,UK,United Kingdom
+UK028C,Nottingham,UK,United Kingdom
+UK029C,Wirral,UK,United Kingdom
+UK030C,Bath and North East Somerset,UK,United Kingdom
+UK031C,Thurrock,UK,United Kingdom
+UK032C,Guildford,UK,United Kingdom
+UK033C,Thanet,UK,United Kingdom
+UK034C,Nuneaton and Bedworth,UK,United Kingdom
+UK035C,Tunbridge Wells,UK,United Kingdom
+UK036C,Ashford,UK,United Kingdom
+UK037C,East Staffordshire,UK,United Kingdom
+UK038C,Darlington,UK,United Kingdom
+UK039C,Worthing,UK,United Kingdom
+UK040C,Mansfield,UK,United Kingdom
+UK041C,Chesterfield,UK,United Kingdom
+UK042C,Burnley,UK,United Kingdom
+UK043C,Great Yarmouth,UK,United Kingdom
+UK044C,Woking,UK,United Kingdom
+UK045C,Hartlepool,UK,United Kingdom
+UK046C,Cannock Chase,UK,United Kingdom
+UK047C,Eastbourne,UK,United Kingdom
+UK048C,Hastings,UK,United Kingdom
+UK049C,Hyndburn,UK,United Kingdom
+UK050C,Redditch,UK,United Kingdom
+UK051C,Tamworth,UK,United Kingdom
+UK052C,Harlow,UK,United Kingdom
+UK053C,Halton,UK,United Kingdom
+UK054C,Kirklees,UK,United Kingdom
+UK055C,North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),UK,United Kingdom
+UK056C,Wakefield,UK,United Kingdom
+UK057C,Dudley,UK,United Kingdom
+UK058C,Wigan,UK,United Kingdom
+UK059C,Doncaster,UK,United Kingdom
+UK060C,Stockport,UK,United Kingdom
+UK061C,Sefton,UK,United Kingdom
+UK062C,Sandwell,UK,United Kingdom
+UK063C,Sunderland,UK,United Kingdom
+UK064C,Bolton,UK,United Kingdom
+UK065C,Walsall,UK,United Kingdom
+UK066C,Medway,UK,United Kingdom
+UK067C,Rotherham,UK,United Kingdom
+UK068C,Brighton and Hove,UK,United Kingdom
+UK069C,Plymouth,UK,United Kingdom
+UK070C,Swansea,UK,United Kingdom
+UK071C,Derby,UK,United Kingdom
+UK072C,Barnsley,UK,United Kingdom
+UK073C,Southampton,UK,United Kingdom
+UK074C,Oldham,UK,United Kingdom
+UK075C,Salford,UK,United Kingdom
+UK076C,Tameside,UK,United Kingdom
+UK077C,Trafford,UK,United Kingdom
+UK078C,Milton Keynes,UK,United Kingdom
+UK079C,Rochdale,UK,United Kingdom
+UK080C,Solihull,UK,United Kingdom
+UK081C,Northampton,UK,United Kingdom
+UK082C,North Tyneside,UK,United Kingdom
+UK083C,Gateshead,UK,United Kingdom
+UK084C,Warrington,UK,United Kingdom
+UK085C,Luton,UK,United Kingdom
+UK086C,York,UK,United Kingdom
+UK087C,Bury,UK,United Kingdom
+UK088C,Swindon,UK,United Kingdom
+UK089C,Stockton-on-Tees,UK,United Kingdom
+UK090C,St. Helens,UK,United Kingdom
+UK091C,Basildon,UK,United Kingdom
+UK092C,Bournemouth,UK,United Kingdom
+UK093C,Southend-on-Sea,UK,United Kingdom
+UK094C,Telford and Wrekin,UK,United Kingdom
+UK095C,North East Lincolnshire,UK,United Kingdom
+UK096C,Chelmsford,UK,United Kingdom
+UK097C,Peterborough,UK,United Kingdom
+UK098C,Colchester,UK,United Kingdom
+UK099C,South Tyneside,UK,United Kingdom
+UK100C,Basingstoke and Deane,UK,United Kingdom
+UK101C,Bedford,UK,United Kingdom
+UK102C,Dundee City,UK,United Kingdom
+UK103C,Falkirk,UK,United Kingdom
+UK104C,Reading,UK,United Kingdom
+UK105C,Blackpool,UK,United Kingdom
+UK106C,Maidstone,UK,United Kingdom
+UK107C,Dacorum,UK,United Kingdom
+UK108C,Blackburn with Darwen,UK,United Kingdom
+UK109C,Newport,UK,United Kingdom
+UK110C,Middlesbrough,UK,United Kingdom
+UK111C,Oxford,UK,United Kingdom
+UK112C,Torbay,UK,United Kingdom
+UK113C,Preston,UK,United Kingdom
+UK114C,St Albans,UK,United Kingdom
+UK115C,Warwick,UK,United Kingdom
+UK116C,Newcastle-under-Lyme,UK,United Kingdom
+UK117C,Norwich,UK,United Kingdom
+UK118C,Slough,UK,United Kingdom
+UK119C,Cheshire West and Chester,UK,United Kingdom
+UK120C,Ipswich,UK,United Kingdom
+UK121C,Cheltenham,UK,United Kingdom
+UK122C,Gloucester,UK,United Kingdom
+UK123C,Bracknell Forest,UK,United Kingdom
+UK124C,Carlisle,UK,United Kingdom
+UK125C,Crawley,UK,United Kingdom
+UK126C,Watford,UK,United Kingdom
+UK127C,Gosport,UK,United Kingdom
+UK128C,Eastleigh,UK,United Kingdom
+UK129C,Rushmoor,UK,United Kingdom
+UK130C,Rugby,UK,United Kingdom
+UK131C,Corby,UK,United Kingdom
+UK132C,Kettering,UK,United Kingdom
+UK133C,Inverclyde (Greenock),UK,United Kingdom
+UK134C,Renfrewshire (Paisley),UK,United Kingdom
+UK135C,Derry & Strabane Local Government District,UK,United Kingdom

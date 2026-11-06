@@ -1,0 +1,865 @@
+city_code,city,country,predicted,cycling_mode_share,pred_class,pred_reg,prediction_set
+AT001C,Wien,Austria,False,0.07,,,
+AT002C,Graz,Austria,False,0.19,,,
+AT003C,Linz,Austria,False,0.072,,,
+AT004C,Salzburg,Austria,False,0.16,,,
+AT005C,Innsbruck,Austria,False,0.222,,,
+AT006C,Klagenfurt,Austria,True,,high,0.09,"['high', 'low']"
+BE001C,Bruxelles/Brussel,Belgium,False,0.019,,,
+BE002C,Antwerpen,Belgium,False,0.23,,,
+BE003C,Gent,Belgium,False,0.327,,,
+BE004C,Charleroi,Belgium,False,0.01,,,
+BE005C,Liège,Belgium,False,0.011,,,
+BE006C,Brugge,Belgium,False,0.247,,,
+BE007C,Namur,Belgium,False,0.011,,,
+BE008C,Leuven,Belgium,False,0.153,,,
+BE009C,Mons,Belgium,False,0.016,,,
+BE010C,Kortrijk,Belgium,False,0.157,,,
+BE011C,Oostende,Belgium,False,0.201,,,
+BE012C,Mechelen,Belgium,True,,high,0.28,['high']
+BE013C,Mouscron,Belgium,True,,low,0.1,['low']
+BE014C,La Louvière,Belgium,True,,low,0.08,['low']
+BE015C,Verviers,Belgium,True,,low,0.06,['low']
+BG001C,Sofia,Bulgaria,False,0.12,,,
+BG002C,Plovdiv,Bulgaria,False,0.08,,,
+BG003C,Varna,Bulgaria,False,0.09,,,
+BG004C,Burgas,Bulgaria,False,0.13,,,
+BG005C,Pleven,Bulgaria,False,0.15,,,
+BG006C,Ruse,Bulgaria,False,0.12,,,
+BG007C,Vidin,Bulgaria,False,0.14,,,
+BG008C,Stara Zagora,Bulgaria,False,0.17,,,
+BG009C,Sliven,Bulgaria,False,0.15,,,
+BG010C,Dobrich,Bulgaria,False,0.16,,,
+BG011C,Shumen,Bulgaria,False,0.16,,,
+BG012C,Pernik,Bulgaria,False,0.12,,,
+BG013C,Yambol,Bulgaria,False,0.18,,,
+BG014C,Haskovo,Bulgaria,False,0.18,,,
+BG015C,Pazardzhik,Bulgaria,False,0.18,,,
+BG016C,Blagoevgrad,Bulgaria,False,0.17,,,
+BG017C,Veliko Tarnovo,Bulgaria,False,0.09,,,
+BG018C,Vratsa,Bulgaria,False,0.16,,,
+CH001C,Bern,Switzerland,False,0.105,,,
+CH002C,Zürich,Switzerland,False,0.06,,,
+CH003C,Genève,Switzerland,False,0.089,,,
+CH004C,Basel,Switzerland,False,0.177,,,
+CH005C,Lausanne,Switzerland,False,0.024,,,
+CH006C,Luzern,Switzerland,False,0.119,,,
+CH007C,Winterthur,Switzerland,False,0.145,,,
+CH008C,Lugano,Switzerland,False,0.036,,,
+CH009C,St. Gallen,Switzerland,False,0.042,,,
+CH010C,Biel/Bienne,Switzerland,False,0.069,,,
+CH011C,Thun,Switzerland,True,,low,0.07,['low']
+CH012C,Zug,Switzerland,True,,low,0.09,['low']
+CY001C,Lefkosia,Cyprus,True,,low,0.04,['low']
+CY002C,Larnaka,Cyprus,True,,low,0.07,['low']
+CY003C,Lemesos,Cyprus,True,,low,0.07,['low']
+CZ001C,Praha,Czech Republic,False,0.004,,,
+CZ002C,Brno,Czech Republic,False,0.02,,,
+CZ003C,Ostrava,Czech Republic,True,,low,0.04,['low']
+CZ004C,Plzeň,Czech Republic,True,,high,0.13,"['high', 'low']"
+CZ005C,Ústí nad Labem,Czech Republic,True,,low,0.02,['low']
+CZ006C,Olomouc,Czech Republic,True,,low,0.06,"['low', 'moderate']"
+CZ007C,Liberec,Czech Republic,True,,low,0.04,['low']
+CZ008C,České Budějovice,Czech Republic,True,,low,0.07,['low']
+CZ009C,Hradec Králové,Czech Republic,False,0.168,,,
+CZ010C,Pardubice,Czech Republic,False,0.18,,,
+CZ011C,Zlín,Czech Republic,False,0.01,,,
+CZ012C,Kladno,Czech Republic,True,,low,0.09,['low']
+CZ013C,Karlovy Vary,Czech Republic,False,0.02,,,
+CZ014C,Jihlava,Czech Republic,False,0.07,,,
+CZ015C,Havířov,Czech Republic,True,,low,0.04,['low']
+CZ016C,Most,Czech Republic,True,,low,0.06,['low']
+CZ017C,Karviná,Czech Republic,True,,low,0.07,['low']
+CZ018C,Chomutov-Jirkov,Czech Republic,True,,low,0.03,['low']
+DE001C,Berlin,Germany,False,0.128,,,
+DE002C,Hamburg,Germany,False,0.116,,,
+DE003C,München,Germany,False,0.128,,,
+DE004C,Köln,Germany,False,0.136,,,
+DE005C,Frankfurt am Main,Germany,False,0.113,,,
+DE006C,Essen,Germany,False,0.026,,,
+DE007C,Stuttgart,Germany,False,0.051,,,
+DE008C,Leipzig,Germany,False,0.164,,,
+DE009C,Dresden,Germany,False,0.15,,,
+DE010C,Dortmund,Germany,False,0.036,,,
+DE011C,Düsseldorf,Germany,False,0.096,,,
+DE012C,Bremen,Germany,False,0.213,,,
+DE013C,Hannover,Germany,False,0.189,,,
+DE014C,Nürnberg,Germany,False,0.088,,,
+DE015C,Bochum,Germany,False,0.025,,,
+DE016C,Bielefeld,Germany,False,0.069,,,
+DE017C,Halle an der Saale,Germany,False,0.129,,,
+DE018C,Magdeburg,Germany,False,0.115,,,
+DE019C,Wiesbaden,Germany,False,0.043,,,
+DE020C,Göttingen,Germany,False,0.262,,,
+DE021C,Mülheim a.d.Ruhr,Germany,False,0.03,,,
+DE022C,Moers,Germany,False,0.081,,,
+DE023C,Darmstadt,Germany,False,0.195,,,
+DE024C,Trier,Germany,False,0.088,,,
+DE025C,Freiburg im Breisgau,Germany,False,0.299,,,
+DE026C,Regensburg,Germany,False,0.193,,,
+DE027C,Frankfurt (Oder),Germany,False,0.084,,,
+DE028C,Weimar,Germany,False,0.075,,,
+DE029C,Schwerin,Germany,False,0.121,,,
+DE030C,Erfurt,Germany,False,0.112,,,
+DE031C,Augsburg,Germany,False,0.139,,,
+DE032C,Bonn,Germany,False,0.174,,,
+DE033C,Karlsruhe,Germany,False,0.218,,,
+DE034C,Mönchengladbach,Germany,False,0.05,,,
+DE035C,Mainz,Germany,False,0.087,,,
+DE036C,Kiel,Germany,False,0.219,,,
+DE037C,Saarbrücken,Germany,False,0.037,,,
+DE038C,Potsdam,Germany,False,0.189,,,
+DE039C,Koblenz,Germany,False,0.096,,,
+DE040C,Rostock,Germany,False,0.199,,,
+DE041C,Kaiserslautern,Germany,False,0.04,,,
+DE042C,Iserlohn,Germany,False,0.012,,,
+DE043C,Esslingen am Neckar,Germany,False,0.067,,,
+DE044C,Hanau,Germany,False,0.057,,,
+DE045C,Wilhelmshaven,Germany,False,0.194,,,
+DE046C,Ludwigsburg,Germany,False,0.039,,,
+DE047C,Tübingen,Germany,False,0.19,,,
+DE048C,Villingen-Schwenningen,Germany,False,0.053,,,
+DE049C,Flensburg,Germany,False,0.109,,,
+DE050C,Marburg,Germany,False,0.098,,,
+DE051C,Konstanz,Germany,False,0.262,,,
+DE052C,Neumünster,Germany,False,0.154,,,
+DE053C,Brandenburg an der Havel,Germany,False,0.195,,,
+DE054C,Gießen,Germany,False,0.15,,,
+DE055C,Lüneburg,Germany,False,0.253,,,
+DE056C,Bayreuth,Germany,False,0.185,,,
+DE057C,Celle,Germany,False,0.259,,,
+DE058C,Aschaffenburg,Germany,False,0.092,,,
+DE059C,Bamberg,Germany,False,0.232,,,
+DE060C,Plauen,Germany,False,0.027,,,
+DE061C,Neubrandenburg,Germany,False,0.159,,,
+DE062C,Fulda,Germany,False,0.053,,,
+DE063C,Kempten (Allgäu),Germany,False,0.094,,,
+DE064C,Landshut,Germany,False,0.118,,,
+DE065C,Sindelfingen,Germany,False,0.097,,,
+DE066C,Rosenheim,Germany,False,0.258,,,
+DE067C,Frankenthal (Pfalz),Germany,False,0.115,,,
+DE068C,Stralsund,Germany,False,0.217,,,
+DE069C,Friedrichshafen,Germany,False,0.166,,,
+DE070C,Offenburg,Germany,False,0.202,,,
+DE071C,Görlitz,Germany,False,0.079,,,
+DE072C,Sankt Augustin,Germany,False,0.061,,,
+DE073C,Neu-Ulm,Germany,False,0.1,,,
+DE074C,Schweinfurt,Germany,False,0.104,,,
+DE075C,Greifswald,Germany,False,0.381,,,
+DE076C,Wetzlar,Germany,False,0.032,,,
+DE077C,Speyer,Germany,False,0.166,,,
+DE078C,Passau,Germany,False,0.042,,,
+DE079C,Dessau-Roßlau,Germany,False,0.201,,,
+DE080C,Duisburg,Germany,False,0.059,,,
+DE081C,Mannheim,Germany,False,0.12,,,
+DE082C,Gelsenkirchen,Germany,False,0.043,,,
+DE083C,Münster,Germany,False,0.366,,,
+DE084C,Chemnitz,Germany,False,0.058,,,
+DE085C,Braunschweig,Germany,False,0.194,,,
+DE086C,Aachen,Germany,False,0.105,,,
+DE087C,Krefeld,Germany,False,0.121,,,
+DE088C,Oberhausen,Germany,False,0.041,,,
+DE089C,Lübeck,Germany,False,0.228,,,
+DE090C,Hagen,Germany,False,0.013,,,
+DE091C,Kassel,Germany,False,0.087,,,
+DE092C,Hamm,Germany,False,0.109,,,
+DE093C,Herne,Germany,False,0.048,,,
+DE094C,Solingen,Germany,False,0.019,,,
+DE095C,Osnabrück,Germany,False,0.179,,,
+DE096C,Ludwigshafen am Rhein,Germany,False,0.122,,,
+DE097C,Leverkusen,Germany,False,0.103,,,
+DE098C,Oldenburg (Oldenburg),Germany,False,0.299,,,
+DE099C,Neuss,Germany,False,0.069,,,
+DE100C,Heidelberg,Germany,False,0.252,,,
+DE101C,Paderborn,Germany,False,0.13,,,
+DE102C,Würzburg,Germany,False,0.146,,,
+DE103C,Recklinghausen,Germany,False,0.064,,,
+DE104C,Wolfsburg,Germany,False,0.112,,,
+DE105C,Bremerhaven,Germany,False,0.125,,,
+DE106C,Bottrop,Germany,False,0.043,,,
+DE107C,Heilbronn,Germany,False,0.059,,,
+DE108C,Remscheid,Germany,False,0.0,,,
+DE109C,Offenbach am Main,Germany,False,0.094,,,
+DE110C,Ulm,Germany,False,0.112,,,
+DE111C,Pforzheim,Germany,False,0.011,,,
+DE112C,Ingolstadt,Germany,False,0.205,,,
+DE113C,Gera,Germany,False,0.049,,,
+DE114C,Salzgitter,Germany,False,0.06,,,
+DE115C,Reutlingen,Germany,False,0.077,,,
+DE116C,Fürth,Germany,False,0.059,,,
+DE117C,Cottbus,Germany,False,0.244,,,
+DE118C,Siegen,Germany,False,0.016,,,
+DE119C,Bergisch Gladbach,Germany,False,0.043,,,
+DE120C,Hildesheim,Germany,False,0.164,,,
+DE121C,Witten,Germany,False,0.029,,,
+DE122C,Zwickau,Germany,False,0.045,,,
+DE123C,Erlangen,Germany,False,0.292,,,
+DE124C,Wuppertal,Germany,False,0.016,,,
+DE125C,Jena,Germany,False,0.161,,,
+DE126C,"Düren, Stadt",Germany,False,0.068,,,
+DE127C,"Bocholt, Stadt",Germany,False,0.341,,,
+DK001C,København,Denmark,False,0.3,,,
+DK002C,Århus,Denmark,False,0.281,,,
+DK003C,Odense,Denmark,False,0.27,,,
+DK004C,Aalborg,Denmark,True,,high,0.17,['high']
+EE001C,Tallinn,Estonia,False,0.012,,,
+EE002C,Tartu,Estonia,False,0.055,,,
+EE003C,Narva,Estonia,True,,low,0.06,['low']
+EL001C,Athina,Greece,False,0.02,,,
+EL002C,Thessaloniki,Greece,False,0.1,,,
+EL003C,Pátra,Greece,True,,low,0.03,['low']
+EL004C,Irakleio,Greece,True,,low,0.03,['low']
+EL005C,Larisa,Greece,True,,low,0.04,['low']
+EL006C,Volos,Greece,True,,moderate,0.04,"['moderate', 'low']"
+EL007C,Ioannina,Greece,True,,low,0.04,['low']
+EL008C,Kavala,Greece,True,,low,0.03,['low']
+EL009C,Kalamata,Greece,True,,low,0.03,['low']
+EL010C,Trikala,Greece,True,,low,0.07,['low']
+EL011C,Serres,Greece,True,,low,0.07,['low']
+EL012C,Katerini,Greece,True,,low,0.08,['low']
+EL013C,Xanthi,Greece,True,,low,0.07,['low']
+EL014C,Chania,Greece,True,,low,0.07,['low']
+ES001C,Madrid,Spain,False,0.005,,,
+ES002C,Barcelona,Spain,False,0.017,,,
+ES003C,Valencia,Spain,False,0.02,,,
+ES004C,Sevilla,Spain,False,0.07,,,
+ES005C,Zaragoza,Spain,False,0.029,,,
+ES006C,Málaga,Spain,True,,low,0.01,['low']
+ES007C,Murcia,Spain,False,0.01,,,
+ES008C,Las Palmas,Spain,True,,low,0.02,['low']
+ES009C,Valladolid,Spain,False,0.01,,,
+ES010C,Palma de Mallorca,Spain,True,,low,0.02,['low']
+ES011C,Santiago de Compostela,Spain,True,,low,0.01,['low']
+ES012C,Vitoria/Gasteiz,Spain,False,0.123,,,
+ES013C,Oviedo,Spain,True,,low,0.0,['low']
+ES014C,Pamplona/Iruña,Spain,True,,low,0.04,['low']
+ES015C,Santander,Spain,True,,low,0.03,['low']
+ES016C,Toledo,Spain,True,,low,0.01,['low']
+ES017C,Badajoz,Spain,True,,low,0.05,['low']
+ES018C,Logroño,Spain,True,,low,0.04,['low']
+ES019C,Bilbao,Spain,False,0.02,,,
+ES020C,Córdoba,Spain,False,0.02,,,
+ES021C,Alicante/Alacant,Spain,True,,low,0.02,['low']
+ES022C,Vigo,Spain,True,,low,0.0,['low']
+ES023C,Gijón,Spain,True,,low,0.01,['low']
+ES024C,Santa Cruz de Tenerife,Spain,True,,low,0.02,['low']
+ES025C,A Coruña,Spain,True,,low,0.03,['low']
+ES026C,Reus,Spain,True,,low,0.01,['low']
+ES027C,Telde,Spain,True,,low,0.0,['low']
+ES028C,Lugo,Spain,True,,low,0.03,['low']
+ES029C,San Fernando,Spain,True,,low,0.08,['low']
+ES030C,Girona,Spain,True,,low,0.04,['low']
+ES031C,Cáceres,Spain,True,,low,0.05,['low']
+ES032C,Torrevieja,Spain,True,,low,0.05,['low']
+ES033C,"Puerto de Santa María, El",Spain,True,,low,0.02,['low']
+ES034C,Avilés,Spain,True,,low,0.03,['low']
+ES035C,Talavera de la Reina,Spain,True,,low,0.01,['low']
+ES036C,Palencia,Spain,True,,low,0.03,['low']
+ES037C,Ferrol,Spain,True,,low,0.01,['low']
+ES038C,Pontevedra,Spain,True,,low,0.0,['low']
+ES039C,Ceuta,Spain,True,,low,0.0,['low']
+ES040C,Gandia,Spain,True,,low,0.02,['low']
+ES041C,Guadalajara,Spain,True,,low,0.01,['low']
+ES042C,Manresa,Spain,True,,low,0.01,['low']
+ES043C,Ciudad Real,Spain,True,,low,0.02,['low']
+ES044C,Benidorm,Spain,True,,low,0.03,['low']
+ES045C,Melilla,Spain,True,,low,0.02,['low']
+ES046C,Ponferrada,Spain,True,,low,0.02,['low']
+ES047C,Zamora,Spain,True,,low,0.03,['low']
+ES048C,Fuengirola,Spain,True,,low,0.06,['low']
+ES049C,Sanlúcar de Barrameda,Spain,True,,low,0.04,['low']
+ES050C,Vilanova i la Geltrú,Spain,True,,low,0.05,['low']
+ES051C,"Línea de la Concepción, La",Spain,True,,low,0.01,['low']
+ES052C,Torremolinos,Spain,True,,low,0.01,['low']
+ES053C,Irun,Spain,True,,low,0.04,['low']
+ES054C,Granollers,Spain,True,,low,0.02,['low']
+ES055C,Arrecife,Spain,True,,low,0.02,['low']
+ES056C,Elda,Spain,True,,low,0.02,['low']
+ES057C,Santa Lucía de Tirajana,Spain,True,,low,0.01,['low']
+ES058C,Mollet del Vallès,Spain,True,,low,0.03,['low']
+ES059C,Granada,Spain,True,,low,0.03,['low']
+ES060C,Elche/Elx,Spain,True,,low,0.02,['low']
+ES061C,Cartagena,Spain,True,,low,0.01,['low']
+ES062C,Jerez de la Frontera,Spain,True,,low,0.02,['low']
+ES063C,San Sebastián/Donostia,Spain,True,,low,0.04,['low']
+ES064C,Alcalá de Henares,Spain,True,,low,0.01,['low']
+ES065C,Almería,Spain,True,,low,0.02,['low']
+ES066C,Burgos,Spain,False,0.04,,,
+ES067C,Salamanca,Spain,True,,low,0.01,['low']
+ES068C,Albacete,Spain,True,,low,0.08,['low']
+ES069C,Castellón de la Plana/Castelló de la Plana,Spain,True,,low,0.03,['low']
+ES070C,Huelva,Spain,True,,low,0.03,['low']
+ES071C,Cádiz,Spain,True,,low,0.05,"['low', 'moderate']"
+ES072C,León,Spain,False,0.01,,,
+ES073C,Tarragona,Spain,False,0.01,,,
+ES074C,Jaén,Spain,True,,low,0.03,['low']
+ES075C,Lleida,Spain,True,,low,0.03,['low']
+ES076C,Ourense,Spain,True,,low,0.0,['low']
+ES077C,Mataró,Spain,True,,low,0.02,['low']
+ES078C,Dos Hermanas,Spain,True,,low,0.02,['low']
+ES079C,Algeciras,Spain,True,,low,0.01,['low']
+ES080C,Marbella,Spain,True,,low,0.0,['low']
+ES081C,Torrejón de Ardoz,Spain,True,,low,0.03,['low']
+ES082C,Alcalá de Guadaíra,Spain,True,,low,0.02,['low']
+ES083C,Alcoy,Spain,True,,low,0.02,['low']
+ES084C,Ávila,Spain,True,,low,0.03,['low']
+ES085C,Benalmádena,Spain,True,,low,0.02,['low']
+ES086C,Chiclana de la Frontera,Spain,True,,low,0.03,['low']
+ES087C,Collado Villalba,Spain,True,,low,0.03,['low']
+ES088C,Cuenca,Spain,True,,low,0.05,['low']
+ES089C,Eivissa,Spain,True,,low,0.05,['low']
+ES090C,Linares,Spain,True,,low,0.03,['low']
+ES091C,Lorca,Spain,True,,low,0.08,['low']
+ES092C,Mérida,Spain,True,,low,0.04,['low']
+ES093C,Sagunto,Spain,True,,low,0.03,['low']
+ES094C,Torrelavega,Spain,True,,low,0.03,['low']
+ES095C,Valdemoro,Spain,True,,low,0.03,['low']
+ES096C,Puerto de la Cruz,Spain,True,,low,0.01,['low']
+ES097C,Igualada,Spain,True,,low,0.03,['low']
+ES098C,San Vicente del Raspeig/Sant Vicent del Raspeig,Spain,True,,low,0.03,['low']
+FI001C,Helsinki/Helsingfors,Finland,False,0.14,,,
+FI002C,Tampere/Tammerfors,Finland,False,0.14,,,
+FI003C,Turku/Åbo,Finland,True,,moderate,0.14,"['moderate', 'high']"
+FI004C,Oulu/Uleåborg,Finland,False,0.24,,,
+FI005C,Espoo/Esbo,Finland,False,0.1,,,
+FI006C,Vantaa/Vanda,Finland,False,0.11,,,
+FI007C,Lahti/Lahtis,Finland,False,0.17,,,
+FI008C,Kuopio,Finland,False,0.356,,,
+FI009C,Jyväskylä,Finland,False,0.13,,,
+FR001C,Paris,France,False,0.028,,,
+FR002C,Lyon,France,False,0.059,,,
+FR003C,Lille,France,False,0.038,,,
+FR004C,Marseille,France,False,0.017,,,
+FR005C,Bordeaux,France,False,0.086,,,
+FR006C,Toulouse,France,False,0.072,,,
+FR007C,Nantes,France,False,0.087,,,
+FR008C,Nice,France,False,0.022,,,
+FR009C,Strasbourg,France,False,0.149,,,
+FR010C,Rouen,France,False,0.026,,,
+FR011C,Montpellier,France,False,0.073,,,
+FR012C,Grenoble,France,False,0.125,,,
+FR013C,Tours,France,False,0.06,,,
+FR014C,Cannes-Antibes,France,False,0.015,,,
+FR015C,Toulon,France,False,0.034,,,
+FR016C,Rennes,France,False,0.095,,,
+FR017C,Reims,France,False,0.033,,,
+FR018C,Orléans,France,False,0.045,,,
+FR019C,Nancy,France,False,0.035,,,
+FR020C,Dijon,France,False,0.057,,,
+FR021C,Clermont-Ferrand,France,False,0.036,,,
+FR022C,Le Havre,France,False,0.026,,,
+FR023C,Saint-Étienne,France,False,0.015,,,
+FR024C,Angers,France,False,0.073,,,
+FR025C,Mulhouse,France,False,0.032,,,
+FR026C,Lens,France,False,0.014,,,
+FR027C,Metz,France,False,0.024,,,
+FR028C,Nîmes,France,False,0.046,,,
+FR029C,Le Mans,France,False,0.052,,,
+FR030C,Saint-Denis,France,False,0.016,,,
+FR031C,Caen,France,False,0.049,,,
+FR032C,Limoges,France,False,0.015,,,
+FR033C,Aix-en-Provence,France,False,0.032,,,
+FR034C,Brest,France,False,0.03,,,
+FR035C,Amiens,France,False,0.052,,,
+FR036C,Dunkerque,France,False,0.033,,,
+FR037C,Perpignan,France,False,0.025,,,
+FR038C,Annecy,France,False,0.068,,,
+FR039C,Besançon,France,False,0.053,,,
+FR040C,Bayonne,France,False,0.024,,,
+FR041C,La Seyne-sur-Mer,France,False,0.026,,,
+FR042C,Pau,France,False,0.049,,,
+FR043C,Avignon,France,False,0.051,,,
+FR044C,Troyes,France,False,0.044,,,
+FR045C,Valenciennes,France,False,0.02,,,
+FR046C,Fort-de-France,France,False,0.003,,,
+FR047C,Poitiers,France,False,0.045,,,
+FR048C,Valence,France,False,0.054,,,
+FR049C,Fréjus,France,False,0.014,,,
+FR050C,Chambéry,France,False,0.07,,,
+FR051C,Mantes-la-Jolie,France,False,0.009,,,
+FR052C,Douai,France,False,0.032,,,
+FR053C,Melun,France,False,0.01,,,
+FR054C,La Rochelle,France,False,0.115,,,
+FR055C,Lorient,France,False,0.057,,,
+FR056C,Cherbourg-en-Cotentin,France,False,0.045,,,
+FR057C,Béziers,France,False,0.011,,,
+FR058C,Chartres,France,False,0.043,,,
+FR059C,Creil,France,False,0.014,,,
+FR060C,Boulogne-sur-Mer,France,False,0.008,,,
+FR061C,Calais,France,False,0.028,,,
+FR062C,Mamoudzou,France,False,0.006,,,
+FR063C,Montbéliard,France,False,0.018,,,
+FR064C,Arras,France,False,0.025,,,
+FR065C,Colmar,France,False,0.09,,,
+FR066C,Martigues,France,False,0.005,,,
+FR067C,Meaux,France,False,0.011,,,
+FR068C,Bourges,France,False,0.039,,,
+FR069C,Saint-Brieuc,France,False,0.033,,,
+FR070C,Quimper,France,False,0.019,,,
+FR071C,Belfort,France,False,0.039,,,
+FR072C,Cayenne,France,False,0.037,,,
+FR073C,Hayange,France,False,0.007,,,
+FR074C,Saint-Louis,France,False,0.01,,,
+FR075C,Vannes,France,False,0.043,,,
+FR076C,Annemasse-Geneva (French part),France,False,0.06,,,
+FR077C,Saint-Louis-Bâle (French part),France,False,0.105,,,
+HR001C,Zagreb,Croatia,False,0.01,,,
+HR002C,Rijeka,Croatia,True,,low,0.01,['low']
+HR003C,Slavonski Brod,Croatia,True,,low,0.06,['low']
+HR004C,Osijek,Croatia,True,,moderate,0.08,"['moderate', 'low']"
+HR005C,Split,Croatia,True,,low,0.01,['low']
+HR006C,Pula/Pola,Croatia,True,,low,0.04,['low']
+HR007C,Zadar,Croatia,True,,low,0.01,['low']
+HU001C,Budapest,Hungary,False,0.02,,,
+HU002C,Miskolc,Hungary,True,,low,0.06,['low']
+HU003C,Nyíregyháza,Hungary,True,,low,0.06,"['low', 'moderate']"
+HU004C,Pécs,Hungary,False,0.01,,,
+HU005C,Debrecen,Hungary,True,,low,0.05,"['low', 'moderate']"
+HU006C,Szeged,Hungary,False,0.09,,,
+HU007C,Gyõr,Hungary,False,0.07,,,
+HU008C,Kecskemét,Hungary,True,,moderate,0.06,"['moderate', 'low']"
+HU009C,Székesfehérvár,Hungary,True,,low,0.05,"['low', 'moderate']"
+HU010C,Szombathely,Hungary,True,,low,0.05,"['low', 'moderate']"
+HU011C,Szolnok,Hungary,True,,low,0.08,"['low', 'moderate']"
+HU012C,Tatabánya,Hungary,True,,low,0.03,"['low', 'moderate']"
+HU013C,Veszprém,Hungary,True,,low,0.04,"['low', 'moderate']"
+HU014C,Békéscsaba,Hungary,True,,moderate,0.11,"['moderate', 'high']"
+HU015C,Kaposvár,Hungary,True,,low,0.05,"['low', 'moderate']"
+HU016C,Eger,Hungary,True,,moderate,0.06,"['moderate', 'low']"
+HU017C,Dunaújváros,Hungary,True,,low,0.05,"['low', 'moderate']"
+HU018C,Zalaegerszeg,Hungary,True,,low,0.04,"['low', 'moderate']"
+HU019C,Sopron,Hungary,True,,low,0.07,"['low', 'moderate']"
+IE001C,Dublin,Ireland,False,0.053,,,
+IE002C,Cork,Ireland,False,0.029,,,
+IE003C,Limerick,Ireland,False,0.028,,,
+IE004C,Galway,Ireland,False,0.05,,,
+IE005C,Waterford,Ireland,False,0.02,,,
+IS001C,Reykjavík,Iceland,True,,low,0.11,['low']
+IT001C,Roma,Italy,False,0.005,,,
+IT002C,Milano,Italy,False,0.048,,,
+IT003C,Napoli,Italy,False,0.01,,,
+IT004C,Torino,Italy,False,0.026,,,
+IT005C,Palermo,Italy,False,0.015,,,
+IT006C,Genova,Italy,False,0.003,,,
+IT007C,Firenze,Italy,False,0.063,,,
+IT008C,Bari,Italy,False,0.016,,,
+IT009C,Bologna,Italy,False,0.052,,,
+IT010C,Catania,Italy,False,0.003,,,
+IT011C,Venezia,Italy,False,0.059,,,
+IT012C,Verona,Italy,False,0.064,,,
+IT013C,Cremona,Italy,False,0.14,,,
+IT014C,Trento,Italy,False,0.053,,,
+IT015C,Trieste,Italy,False,0.007,,,
+IT016C,Perugia,Italy,False,0.002,,,
+IT017C,Ancona,Italy,False,0.002,,,
+IT018C,Pescara,Italy,False,0.034,,,
+IT019C,Campobasso,Italy,False,0.0,,,
+IT020C,Caserta,Italy,False,0.03,,,
+IT021C,Taranto,Italy,False,0.008,,,
+IT022C,Potenza,Italy,False,0.001,,,
+IT023C,Catanzaro,Italy,False,0.001,,,
+IT024C,Reggio di Calabria,Italy,False,0.002,,,
+IT025C,Sassari,Italy,False,0.003,,,
+IT026C,Cagliari,Italy,False,0.003,,,
+IT027C,Padova,Italy,False,0.095,,,
+IT028C,Brescia,Italy,False,0.046,,,
+IT029C,Modena,Italy,False,0.082,,,
+IT030C,Foggia,Italy,False,0.019,,,
+IT031C,Salerno,Italy,False,0.006,,,
+IT032C,Piacenza,Italy,False,0.115,,,
+IT033C,Bolzano,Italy,False,0.222,,,
+IT034C,Udine,Italy,False,0.087,,,
+IT035C,La Spezia,Italy,False,0.023,,,
+IT036C,Lecce,Italy,False,0.036,,,
+IT037C,Barletta,Italy,False,0.041,,,
+IT038C,Pesaro,Italy,False,0.104,,,
+IT039C,Como,Italy,False,0.036,,,
+IT040C,Pisa,Italy,False,0.065,,,
+IT041C,Treviso,Italy,False,0.106,,,
+IT042C,Varese,Italy,False,0.014,,,
+IT043C,Asti,Italy,False,0.016,,,
+IT044C,Pavia,Italy,False,0.076,,,
+IT045C,Massa,Italy,False,0.036,,,
+IT046C,Cosenza,Italy,False,0.003,,,
+IT047C,Savona,Italy,False,0.018,,,
+IT048C,Matera,Italy,False,0.003,,,
+IT049C,Acireale,Italy,False,0.003,,,
+IT050C,Avellino,Italy,False,0.003,,,
+IT051C,Pordenone,Italy,False,0.086,,,
+IT052C,Lecco,Italy,False,0.016,,,
+IT053C,Altamura,Italy,False,0.006,,,
+IT054C,Bitonto,Italy,False,0.027,,,
+IT055C,Molfetta,Italy,False,0.006,,,
+IT056C,Battipaglia,Italy,False,0.012,,,
+IT057C,Bisceglie,Italy,False,0.025,,,
+IT058C,Carpi,Italy,False,0.108,,,
+IT059C,Cerignola,Italy,False,0.017,,,
+IT060C,Gela,Italy,False,0.006,,,
+IT061C,Bagheria,Italy,False,0.007,,,
+IT062C,Anzio,Italy,False,0.017,,,
+IT063C,Sassuolo,Italy,False,0.033,,,
+IT064C,Messina,Italy,False,0.004,,,
+IT065C,Prato,Italy,False,0.036,,,
+IT066C,Parma,Italy,False,0.123,,,
+IT067C,Livorno,Italy,False,0.089,,,
+IT068C,Reggio nell'Emilia,Italy,False,0.088,,,
+IT069C,Ravenna,Italy,False,0.118,,,
+IT070C,Ferrara,Italy,False,0.173,,,
+IT071C,Rimini,Italy,False,0.121,,,
+IT072C,Siracusa,Italy,False,0.005,,,
+IT073C,Bergamo,Italy,False,0.045,,,
+IT074C,Forlì,Italy,False,0.098,,,
+IT075C,Latina,Italy,False,0.015,,,
+IT076C,Vicenza,Italy,False,0.085,,,
+IT077C,Terni,Italy,False,0.04,,,
+IT078C,Novara,Italy,False,0.098,,,
+IT079C,Alessandria,Italy,False,0.068,,,
+IT080C,Arezzo,Italy,False,0.033,,,
+IT081C,Grosseto,Italy,False,0.075,,,
+IT082C,Brindisi,Italy,False,0.01,,,
+IT083C,Trapani,Italy,False,0.02,,,
+IT084C,Ragusa,Italy,False,0.002,,,
+IT085C,Andria,Italy,False,0.037,,,
+IT086C,Trani,Italy,False,0.032,,,
+IT087C,L'Aquila,Italy,False,0.001,,,
+LT001C,Vilnius,Lithuania,False,0.01,,,
+LT002C,Kaunas,Lithuania,False,0.02,,,
+LT003C,Panevėžys,Lithuania,True,,low,0.04,['low']
+LT004C,Alytus,Lithuania,True,,low,0.03,['low']
+LT005C,Klaipėda,Lithuania,True,,low,0.05,['low']
+LT006C,Šiauliai,Lithuania,False,0.01,,,
+LU001C,Luxembourg,Luxembourg,True,,low,0.07,"['low', 'moderate']"
+LV001C,Rīga,Latvia,False,0.047,,,
+LV002C,Liepāja,Latvia,True,,low,0.07,['low']
+LV003C,Jelgava,Latvia,True,,low,0.06,['low']
+LV004C,Daugavpils,Latvia,False,0.05,,,
+MT001C,Greater Valletta,Malta,True,,low,0.05,"['low', 'moderate']"
+NL001C,Amsterdam,Netherlands,False,0.4,,,
+NL002C,Alkmaar ,Netherlands,True,,high,0.28,['high']
+NL003C,Almelo,Netherlands,True,,high,0.26,['high']
+NL004C,Almere,Netherlands,False,0.22,,,
+NL005C,Alphen aan den Rijn,Netherlands,True,,high,0.27,['high']
+NL006C,Amersfoort,Netherlands,False,0.33,,,
+NL007C,Apeldoorn,Netherlands,False,0.28,,,
+NL008C,Arnhem ,Netherlands,False,0.261,,,
+NL009C,Assen,Netherlands,True,,high,0.26,['high']
+NL010C,Bergen op Zoom,Netherlands,True,,high,0.23,['high']
+NL011C,Breda,Netherlands,False,0.27,,,
+NL012C,Deventer,Netherlands,True,,high,0.29,['high']
+NL013C,Ede ,Netherlands,True,,high,0.29,['high']
+NL014C,Eindhoven ,Netherlands,False,0.4,,,
+NL015C,Enschede,Netherlands,False,0.26,,,
+NL016C,Gouda,Netherlands,True,,high,0.26,['high']
+NL017C,'s-Gravenhage ,Netherlands,False,0.25,,,
+NL018C,Groningen,Netherlands,False,0.31,,,
+NL019C,Haarlem ,Netherlands,True,,high,0.25,['high']
+NL020C,Haarlemmermeer,Netherlands,True,,high,0.27,['high']
+NL021C,Heemskerk ,Netherlands,True,,high,0.25,['high']
+NL022C,Heerlen ,Netherlands,True,,high,0.17,['high']
+NL023C,Helmond,Netherlands,True,,high,0.28,['high']
+NL024C,Hengelo,Netherlands,True,,high,0.29,['high']
+NL025C,'s-Hertogenbosch,Netherlands,True,,high,0.31,['high']
+NL026C,Hilversum,Netherlands,True,,high,0.29,['high']
+NL027C,Hoorn,Netherlands,True,,high,0.26,['high']
+NL028C,Leeuwarden,Netherlands,True,,high,0.31,['high']
+NL029C,Leiden ,Netherlands,True,,high,0.29,['high']
+NL030C,Lelystad,Netherlands,True,,high,0.24,['high']
+NL031C,Maastricht,Netherlands,True,,high,0.22,['high']
+NL032C,Middelburg       ,Netherlands,True,,high,0.24,['high']
+NL033C,Nijmegen,Netherlands,False,0.3,,,
+NL034C,Nissewaard ,Netherlands,True,,high,0.22,['high']
+NL035C,Oss,Netherlands,True,,high,0.23,['high']
+NL036C,Purmerend,Netherlands,True,,high,0.25,['high']
+NL037C,Rotterdam ,Netherlands,False,0.23,,,
+NL038C,Roosendaal,Netherlands,False,0.27,,,
+NL039C,Sittard-Geleen ,Netherlands,True,,high,0.21,['high']
+NL040C,Soest ,Netherlands,True,,high,0.24,['high']
+NL041C,Tilburg,Netherlands,True,,high,0.33,['high']
+NL042C,Utrecht ,Netherlands,False,0.495,,,
+NL043C,Veenendaal,Netherlands,True,,high,0.28,['high']
+NL044C,Venlo,Netherlands,True,,high,0.24,['high']
+NL045C,Zaanstad,Netherlands,True,,high,0.25,['high']
+NL046C,Zoetermeer,Netherlands,True,,high,0.3,['high']
+NL047C,Zwolle,Netherlands,True,,high,0.3,['high']
+NO001C,Oslo,Norway,False,0.05,,,
+NO002C,Bergen,Norway,False,0.03,,,
+NO003C,Trondheim,Norway,False,0.09,,,
+NO004C,Stavanger,Norway,False,0.08,,,
+PL001C,Warszawa,Poland,False,0.03,,,
+PL002C,Łódź,Poland,True,,low,0.03,['low']
+PL003C,Kraków,Poland,False,0.012,,,
+PL004C,Wrocław,Poland,False,0.063,,,
+PL005C,Poznań,Poland,False,0.084,,,
+PL006C,Gdańsk,Poland,False,0.059,,,
+PL007C,Szczecin,Poland,True,,moderate,0.12,"['moderate', 'low']"
+PL008C,Bydgoszcz,Poland,True,,low,0.05,"['low', 'moderate']"
+PL009C,Lublin,Poland,True,,low,0.08,"['low', 'moderate']"
+PL010C,Katowice,Poland,True,,low,0.04,['low']
+PL011C,Białystok,Poland,True,,low,0.04,"['low', 'moderate']"
+PL012C,Kielce,Poland,True,,low,0.02,['low']
+PL013C,Toruń,Poland,True,,low,0.08,"['low', 'moderate']"
+PL014C,Olsztyn,Poland,True,,low,0.05,"['low', 'moderate']"
+PL015C,Rzeszów,Poland,True,,low,0.03,['low']
+PL016C,Opole,Poland,True,,low,0.05,['low']
+PL017C,Gorzów Wielkopolski,Poland,True,,low,0.03,"['low', 'moderate']"
+PL018C,Zielona Góra,Poland,True,,moderate,0.06,"['moderate', 'low']"
+PL019C,Jelenia Góra,Poland,True,,low,0.04,['low']
+PL020C,Nowy Sącz,Poland,True,,low,0.03,['low']
+PL021C,Suwałki,Poland,True,,low,0.06,"['low', 'moderate']"
+PL022C,Konin,Poland,True,,low,0.06,['low']
+PL023C,Żory,Poland,True,,low,0.04,['low']
+PL024C,Częstochowa,Poland,True,,low,0.03,['low']
+PL025C,Radom,Poland,True,,low,0.05,"['low', 'moderate']"
+PL026C,Płock,Poland,False,0.02,,,
+PL027C,Kalisz,Poland,True,,low,0.04,['low']
+PL028C,Koszalin,Poland,True,,low,0.06,"['low', 'moderate']"
+PL029C,Słupsk,Poland,True,,low,0.04,['low']
+PL030C,Jastrzębie-Zdrój,Poland,True,,low,0.05,['low']
+PL031C,Siedlce,Poland,True,,low,0.05,"['low', 'moderate']"
+PL032C,Piotrków Trybunalski,Poland,True,,low,0.05,['low']
+PL033C,Lubin,Poland,True,,low,0.05,['low']
+PL034C,Piła,Poland,True,,low,0.06,['low']
+PL035C,Inowrocław,Poland,True,,low,0.13,"['low', 'moderate']"
+PL036C,Ostrowiec Świętokrzyski,Poland,True,,low,0.06,['low']
+PL037C,Gniezno,Poland,True,,low,0.09,['low']
+PL038C,Stargard,Poland,True,,low,0.09,"['low', 'moderate']"
+PL039C,Ostrów Wielkopolski,Poland,True,,low,0.07,['low']
+PL040C,Przemyśl,Poland,True,,low,0.02,['low']
+PL041C,Zamość,Poland,True,,low,0.04,['low']
+PL042C,Chełm,Poland,True,,low,0.04,['low']
+PL043C,Pabianice,Poland,True,,low,0.06,['low']
+PL044C,Głogów,Poland,True,,low,0.05,['low']
+PL045C,Stalowa Wola,Poland,True,,low,0.13,"['low', 'high']"
+PL046C,Tomaszów Mazowiecki,Poland,True,,low,0.06,['low']
+PL047C,Łomża,Poland,True,,low,0.05,"['low', 'moderate']"
+PL048C,Leszno,Poland,True,,low,0.06,['low']
+PL049C,Świdnica,Poland,True,,low,0.06,['low']
+PL050C,Zgierz,Poland,True,,low,0.05,['low']
+PL051C,Tczew,Poland,True,,low,0.07,"['low', 'moderate']"
+PL052C,Ełk,Poland,True,,low,0.08,"['low', 'moderate']"
+PL053C,Gdynia,Poland,True,,low,0.07,"['low', 'moderate']"
+PL054C,Sosnowiec,Poland,True,,low,0.03,['low']
+PL055C,Gliwice,Poland,True,,low,0.04,['low']
+PL056C,Zabrze,Poland,True,,low,0.03,['low']
+PL057C,Bytom,Poland,True,,low,0.02,['low']
+PL058C,Bielsko-Biała,Poland,True,,low,0.02,['low']
+PL059C,Ruda Śląska,Poland,True,,low,0.03,['low']
+PL060C,Rybnik,Poland,True,,low,0.04,['low']
+PL061C,Tychy,Poland,True,,low,0.04,['low']
+PL062C,Wałbrzych,Poland,True,,low,0.04,['low']
+PL063C,Elbląg,Poland,True,,low,0.1,"['low', 'high']"
+PL064C,Włocławek,Poland,True,,low,0.1,"['low', 'moderate']"
+PL065C,Tarnów,Poland,True,,low,0.05,['low']
+PL066C,Chorzów,Poland,True,,low,0.03,['low']
+PL067C,Legnica,Poland,True,,low,0.02,['low']
+PL068C,Grudziądz,Poland,True,,low,0.05,"['low', 'moderate']"
+PT001C,Lisboa,Portugal,False,0.002,,,
+PT002C,Porto,Portugal,False,0.003,,,
+PT003C,Braga,Portugal,False,0.002,,,
+PT004C,Funchal,Portugal,False,0.0,,,
+PT005C,Coimbra,Portugal,False,0.002,,,
+PT006C,Setúbal,Portugal,False,0.005,,,
+PT007C,Ponta Delgada,Portugal,False,0.002,,,
+PT008C,Aveiro,Portugal,False,0.028,,,
+PT009C,Faro,Portugal,False,0.008,,,
+PT010C,Viseu,Portugal,False,0.003,,,
+PT011C,Viana do Castelo,Portugal,False,0.009,,,
+PT012C,Paredes,Portugal,False,0.004,,,
+PT013C,Póvoa de Varzim,Portugal,False,0.022,,,
+PT014C,Sintra,Portugal,False,0.003,,,
+PT015C,Guimarães,Portugal,False,0.002,,,
+PT016C,Vila Franca de Xira,Portugal,False,0.003,,,
+RO001C,Bucureşti,Romania,False,0.02,,,
+RO002C,Cluj-Napoca,Romania,True,,low,0.03,['low']
+RO003C,Timişoara,Romania,True,,low,0.08,"['low', 'moderate']"
+RO004C,Craiova,Romania,True,,low,0.04,['low']
+RO005C,Brăila,Romania,True,,low,0.1,['low']
+RO006C,Oradea,Romania,True,,low,0.05,['low']
+RO007C,Bacău,Romania,True,,low,0.05,['low']
+RO008C,Arad,Romania,True,,moderate,0.11,"['moderate', 'low']"
+RO009C,Sibiu,Romania,True,,low,0.04,['low']
+RO010C,Târgu Mureş,Romania,True,,low,0.04,['low']
+RO011C,Piatra Neamţ,Romania,True,,low,0.05,['low']
+RO012C,Cǎlǎraşi,Romania,True,,low,0.14,"['low', 'moderate']"
+RO013C,Giurgiu,Romania,True,,low,0.12,"['low', 'moderate']"
+RO014C,Alba Iulia,Romania,True,,low,0.11,['low']
+RO015C,Focşani,Romania,True,,low,0.08,['low']
+RO016C,Târgu Jiu,Romania,True,,low,0.07,['low']
+RO017C,Tulcea,Romania,True,,low,0.09,['low']
+RO018C,Târgovişte,Romania,True,,low,0.05,['low']
+RO019C,Slatina,Romania,True,,low,0.05,['low']
+RO020C,Bârlad,Romania,True,,low,0.05,['low']
+RO021C,Roman,Romania,True,,low,0.08,['low']
+RO022C,Bistriţa,Romania,True,,low,0.08,['low']
+RO023C,Constanţa,Romania,True,,low,0.05,['low']
+RO024C,Iaşi,Romania,True,,low,0.06,"['low', 'moderate']"
+RO025C,Galaţi,Romania,True,,low,0.1,"['low', 'moderate']"
+RO026C,Braşov,Romania,True,,low,0.05,['low']
+RO027C,Ploieşti,Romania,True,,low,0.05,['low']
+RO028C,Piteşti,Romania,True,,low,0.04,['low']
+RO029C,Baia Mare,Romania,True,,low,0.09,['low']
+RO030C,Buzău,Romania,True,,low,0.09,['low']
+RO031C,Satu Mare,Romania,True,,low,0.11,"['low', 'moderate']"
+RO032C,Botoşani,Romania,True,,low,0.05,['low']
+RO033C,Râmnicu Vâlcea,Romania,True,,low,0.05,['low']
+RO034C,Suceava,Romania,True,,low,0.05,['low']
+RO035C,Drobeta-Turnu Severin,Romania,True,,low,0.05,['low']
+SE001C,Stockholm,Sweden,False,0.01,,,
+SE002C,Göteborg,Sweden,False,0.071,,,
+SE003C,Malmö,Sweden,False,0.22,,,
+SE004C,Jönköping,Sweden,True,,high,0.16,"['high', 'low']"
+SE005C,Umeå,Sweden,False,0.19,,,
+SE006C,Uppsala,Sweden,False,0.28,,,
+SE007C,Linköping,Sweden,False,0.2,,,
+SE008C,Örebro,Sweden,False,0.26,,,
+SE009C,Södertälje,Sweden,True,,low,0.12,"['low', 'moderate']"
+SE010C,Västerås,Sweden,False,0.16,,,
+SE011C,Norrköping,Sweden,False,0.13,,,
+SE012C,Helsingborg,Sweden,True,,moderate,0.1,"['moderate', 'high']"
+SE013C,Lund,Sweden,False,0.26,,,
+SE014C,Borås,Sweden,True,,low,0.07,['low']
+SI001C,Ljubljana,Slovenia,False,0.1,,,
+SI002C,Maribor,Slovenia,True,,low,0.04,"['low', 'moderate']"
+SK001C,Bratislava,Slovakia,False,0.016,,,
+SK002C,Košice,Slovakia,True,,moderate,0.05,"['moderate', 'low']"
+SK003C,Banská Bystrica,Slovakia,True,,low,0.04,['low']
+SK004C,Nitra,Slovakia,True,,low,0.03,['low']
+SK005C,Prešov,Slovakia,True,,low,0.05,"['low', 'moderate']"
+SK006C,Žilina,Slovakia,False,0.08,,,
+SK007C,Trnava,Slovakia,True,,moderate,0.07,"['moderate', 'low']"
+SK008C,Trenčín,Slovakia,True,,moderate,0.09,"['moderate', 'low']"
+UK001C,London,United Kingdom,False,0.043,,,
+UK002C,Birmingham,United Kingdom,False,0.016,,,
+UK003C,Leeds,United Kingdom,False,0.019,,,
+UK004C,Glasgow,United Kingdom,False,0.018,,,
+UK005C,Bradford,United Kingdom,False,0.008,,,
+UK006C,Liverpool,United Kingdom,False,0.021,,,
+UK007C,Edinburgh,United Kingdom,False,0.048,,,
+UK008C,Manchester,United Kingdom,False,0.042,,,
+UK009C,Cardiff,United Kingdom,False,0.038,,,
+UK010C,Sheffield,United Kingdom,False,0.019,,,
+UK011C,Bristol,United Kingdom,False,0.081,,,
+UK012C,Belfast,United Kingdom,True,,low,0.05,['low']
+UK013C,Newcastle upon Tyne,United Kingdom,False,0.029,,,
+UK014C,Leicester,United Kingdom,False,0.038,,,
+UK015C,Aberdeen,United Kingdom,False,0.02,,,
+UK016C,Cambridge,United Kingdom,False,0.319,,,
+UK017C,Exeter,United Kingdom,False,0.066,,,
+UK018C,Lincoln,United Kingdom,False,0.063,,,
+UK019C,Gravesham,United Kingdom,False,0.01,,,
+UK020C,Stevenage,United Kingdom,False,0.025,,,
+UK021C,Wrexham,United Kingdom,False,0.014,,,
+UK022C,Portsmouth,United Kingdom,False,0.077,,,
+UK023C,Worcester,United Kingdom,False,0.044,,,
+UK024C,Coventry,United Kingdom,False,0.027,,,
+UK025C,Kingston-upon-Hull,United Kingdom,False,0.083,,,
+UK026C,Stoke-on-Trent,United Kingdom,False,0.015,,,
+UK027C,Wolverhampton,United Kingdom,False,0.022,,,
+UK028C,Nottingham,United Kingdom,False,0.037,,,
+UK029C,Wirral,United Kingdom,False,0.017,,,
+UK030C,Bath and North East Somerset,United Kingdom,False,0.032,,,
+UK031C,Thurrock,United Kingdom,False,0.015,,,
+UK032C,Guildford,United Kingdom,False,0.028,,,
+UK033C,Thanet,United Kingdom,False,0.027,,,
+UK034C,Nuneaton and Bedworth,United Kingdom,False,0.022,,,
+UK035C,Tunbridge Wells,United Kingdom,False,0.013,,,
+UK036C,Ashford,United Kingdom,False,0.027,,,
+UK037C,East Staffordshire,United Kingdom,False,0.034,,,
+UK038C,Darlington,United Kingdom,False,0.025,,,
+UK039C,Worthing,United Kingdom,False,0.055,,,
+UK040C,Mansfield,United Kingdom,False,0.015,,,
+UK041C,Chesterfield,United Kingdom,False,0.011,,,
+UK042C,Burnley,United Kingdom,False,0.011,,,
+UK043C,Great Yarmouth,United Kingdom,False,0.044,,,
+UK044C,Woking,United Kingdom,False,0.029,,,
+UK045C,Hartlepool,United Kingdom,False,0.02,,,
+UK046C,Cannock Chase,United Kingdom,False,0.014,,,
+UK047C,Eastbourne,United Kingdom,False,0.032,,,
+UK048C,Hastings,United Kingdom,False,0.016,,,
+UK049C,Hyndburn,United Kingdom,False,0.012,,,
+UK050C,Redditch,United Kingdom,False,0.016,,,
+UK051C,Tamworth,United Kingdom,False,0.023,,,
+UK052C,Harlow,United Kingdom,False,0.026,,,
+UK053C,Halton,United Kingdom,False,0.022,,,
+UK054C,Kirklees,United Kingdom,False,0.01,,,
+UK055C,North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),United Kingdom,False,0.003,,,
+UK056C,Wakefield,United Kingdom,False,0.013,,,
+UK057C,Dudley,United Kingdom,False,0.013,,,
+UK058C,Wigan,United Kingdom,False,0.017,,,
+UK059C,Doncaster,United Kingdom,False,0.026,,,
+UK060C,Stockport,United Kingdom,False,0.022,,,
+UK061C,Sefton,United Kingdom,False,0.028,,,
+UK062C,Sandwell,United Kingdom,False,0.016,,,
+UK063C,Sunderland,United Kingdom,False,0.014,,,
+UK064C,Bolton,United Kingdom,False,0.011,,,
+UK065C,Walsall,United Kingdom,False,0.016,,,
+UK066C,Medway,United Kingdom,False,0.012,,,
+UK067C,Rotherham,United Kingdom,False,0.009,,,
+UK068C,Brighton and Hove,United Kingdom,False,0.053,,,
+UK069C,Plymouth,United Kingdom,False,0.027,,,
+UK070C,Swansea,United Kingdom,False,0.015,,,
+UK071C,Derby,United Kingdom,False,0.039,,,
+UK072C,Barnsley,United Kingdom,False,0.007,,,
+UK073C,Southampton,United Kingdom,False,0.048,,,
+UK074C,Oldham,United Kingdom,False,0.011,,,
+UK075C,Salford,United Kingdom,False,0.025,,,
+UK076C,Tameside,United Kingdom,False,0.014,,,
+UK077C,Trafford,United Kingdom,False,0.033,,,
+UK078C,Milton Keynes,United Kingdom,False,0.03,,,
+UK079C,Rochdale,United Kingdom,False,0.011,,,
+UK080C,Solihull,United Kingdom,False,0.015,,,
+UK081C,Northampton,United Kingdom,False,0.027,,,
+UK082C,North Tyneside,United Kingdom,False,0.026,,,
+UK083C,Gateshead,United Kingdom,False,0.015,,,
+UK084C,Warrington,United Kingdom,False,0.027,,,
+UK085C,Luton,United Kingdom,False,0.014,,,
+UK086C,York,United Kingdom,False,0.121,,,
+UK087C,Bury,United Kingdom,False,0.014,,,
+UK088C,Swindon,United Kingdom,False,0.044,,,
+UK089C,Stockton-on-Tees,United Kingdom,False,0.02,,,
+UK090C,St. Helens,United Kingdom,False,0.015,,,
+UK091C,Basildon,United Kingdom,False,0.018,,,
+UK092C,Bournemouth,United Kingdom,False,0.05,,,
+UK093C,Southend-on-Sea,United Kingdom,False,0.03,,,
+UK094C,Telford and Wrekin,United Kingdom,False,0.022,,,
+UK095C,North East Lincolnshire,United Kingdom,False,0.056,,,
+UK096C,Chelmsford,United Kingdom,False,0.031,,,
+UK097C,Peterborough,United Kingdom,False,0.06,,,
+UK098C,Colchester,United Kingdom,False,0.042,,,
+UK099C,South Tyneside,United Kingdom,False,0.023,,,
+UK100C,Basingstoke and Deane,United Kingdom,False,0.023,,,
+UK101C,Bedford,United Kingdom,False,0.041,,,
+UK102C,Dundee City,United Kingdom,False,0.014,,,
+UK103C,Falkirk,United Kingdom,False,0.011,,,
+UK104C,Reading,United Kingdom,False,0.044,,,
+UK105C,Blackpool,United Kingdom,False,0.034,,,
+UK106C,Maidstone,United Kingdom,False,0.013,,,
+UK107C,Dacorum,United Kingdom,False,0.012,,,
+UK108C,Blackburn with Darwen,United Kingdom,False,0.01,,,
+UK109C,Newport,United Kingdom,False,0.015,,,
+UK110C,Middlesbrough,United Kingdom,False,0.026,,,
+UK111C,Oxford,United Kingdom,False,0.187,,,
+UK112C,Torbay,United Kingdom,False,0.015,,,
+UK113C,Preston,United Kingdom,False,0.024,,,
+UK114C,St Albans,United Kingdom,False,0.019,,,
+UK115C,Warwick,United Kingdom,False,0.034,,,
+UK116C,Newcastle-under-Lyme,United Kingdom,False,0.012,,,
+UK117C,Norwich,United Kingdom,False,0.093,,,
+UK118C,Slough,United Kingdom,False,0.025,,,
+UK119C,Cheshire West and Chester,United Kingdom,False,0.028,,,
+UK120C,Ipswich,United Kingdom,False,0.049,,,
+UK121C,Cheltenham,United Kingdom,False,0.07,,,
+UK122C,Gloucester,United Kingdom,False,0.052,,,
+UK123C,Bracknell Forest,United Kingdom,False,0.024,,,
+UK124C,Carlisle,United Kingdom,False,0.028,,,
+UK125C,Crawley,United Kingdom,False,0.026,,,
+UK126C,Watford,United Kingdom,False,0.025,,,
+UK127C,Gosport,United Kingdom,True,,moderate,0.09,"['moderate', 'low']"
+UK128C,Eastleigh,United Kingdom,True,,low,0.06,['low']
+UK129C,Rushmoor,United Kingdom,True,,low,0.03,['low']
+UK130C,Rugby,United Kingdom,True,,low,0.04,['low']
+UK131C,Corby,United Kingdom,True,,low,0.02,['low']
+UK132C,Kettering,United Kingdom,True,,low,0.03,['low']
+UK133C,Inverclyde (Greenock),United Kingdom,True,,low,0.01,['low']
+UK134C,Renfrewshire (Paisley),United Kingdom,True,,low,0.01,['low']
+UK135C,Derry & Strabane Local Government District,United Kingdom,True,,low,0.05,['low']
